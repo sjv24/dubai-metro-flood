@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>16 April 2024, Replayed</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;600&display=swap" rel="stylesheet" />
+  <link href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" rel="stylesheet" />
+  <link href="/static/story.css" rel="stylesheet" />
+  <script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+  <script src="https://unpkg.com/deck.gl@9.0.38/dist.min.js"></script>
+</head>
+<body>
+  <div id="stage">
+    <div class="pane" id="paneA"><div class="map" id="mapA"></div><canvas class="rain" id="rainA"></canvas><div class="hud" id="hudA"></div><div class="ptag" id="tagA"></div></div>
+    <div class="pane hidden" id="paneB"><div class="map" id="mapB"></div><canvas class="rain" id="rainB"></canvas><div class="hud" id="hudB"></div><div class="ptag" id="tagB"></div></div>
+  </div>
+
+  <article id="card">
+    <div id="cardInner"></div>
+  </article>
+
+  <div id="legend"></div>
+
+  <nav id="bar">
+    <button id="prev" class="nav" aria-label="Previous chapter">←</button>
+    <div id="dots"></div>
+    <div id="clockWrap"><button id="play" class="icon" aria-label="Play">▶</button><span id="clock" class="mono">05:00</span><input id="scrub" type="range" min="0" max="75" value="0" aria-label="Time" /></div>
+    <button id="next" class="nav primary" aria-label="Next chapter">Next →</button>
+  </nav>
+
+  <a id="explorerLink" href="/explorer" target="_blank" rel="noopener">Algorithm explorer ↗</a>
+  <div id="loading"><div class="spin"></div><div>Rebuilding 16 April 2024 from RTA data…</div></div>
+  <footer>Simulated scenario on real RTA open data · the "2024-style response" is a model of the 2024 response, not measured 2024 outcomes</footer>
+  <script src="/static/charts.js"></script>
+  <script src="/static/story.js"></script>
+</body>
+</html>
