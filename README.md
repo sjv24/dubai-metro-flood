@@ -150,9 +150,6 @@ longer, and a small share of trips exceed 150 minutes. See `docs/REPORT_OUTLINE.
 | File | Contents |
 |---|---|
 | `docs/ALGORITHMS.md` | The three AI techniques: maths, worked examples, results |
-| `docs/DEMO_SCRIPT.md` | What to say in each story chapter |
-| `docs/PITCH_GUIDE.md` | Plain-language walkthrough of the data, build steps and algorithms |
-| `docs/REPORT_OUTLINE.md` | Report structure, mapped to files, tables and figures |
 | `docs/assumptions.md` | Every assumption, its value and its justification |
 | `data/README.md` | Data sources, contents and quality issues |
 
