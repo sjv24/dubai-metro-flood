@@ -6,6 +6,10 @@ simulated scenario. CSCI218 Foundations of AI (UOWD).
 > **Simulated scenario on real RTA open data.** The crowd numbers are modelled, not measured. The
 > "2024-style response" (the baseline) is a *model* of the April 2024 response, not the measured 2024 outcome.
 
+
+https://github.com/user-attachments/assets/2c4b6aaf-4498-47fa-943e-5b5279d85090
+
+
 ## Setup and run
 
 Developed and tested with **Python 3.11.9** (any 3.11.x should work). All package versions are
