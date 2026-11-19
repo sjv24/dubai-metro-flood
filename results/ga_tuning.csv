@@ -1,0 +1,9 @@
+seed_set,setting,ga_mean,greedy_mean,gap_mean,ga_ge_greedy,n
+held-out seeds 100-107,"pop 100, gen 150, mutation 0.2 (chosen)",1.4044,1.404,0.0004,8,8
+held-out seeds 100-107,"pop 100, gen 150, mutation 0.4",1.4044,1.404,0.0004,8,8
+held-out seeds 100-107,"pop 60, gen 80, mutation 0.2 (original)",1.4005,1.404,-0.0036,4,8
+held-out seeds 100-107,"pop 60, gen 80, mutation 0.4",1.4016,1.404,-0.0025,6,8
+tuning seeds 0-7,"pop 100, gen 150, mutation 0.2 (chosen)",1.4148,1.4152,-0.0004,7,8
+tuning seeds 0-7,"pop 100, gen 150, mutation 0.4",1.4162,1.4152,0.001,8,8
+tuning seeds 0-7,"pop 60, gen 80, mutation 0.2 (original)",1.412,1.4152,-0.0032,2,8
+tuning seeds 0-7,"pop 60, gen 80, mutation 0.4",1.4153,1.4152,0.0001,6,8

@@ -1,0 +1,301 @@
+scenario,seed,policy,n_closed,closed,displaced_total,unserved_total,unserved_pct,covered_pct,avg_extra_min,p95_extra_min,overloaded_station_steps,max_overloaded_stations,peak_ratio,staffed_critical_pct,peak_waiting,peak_waiting_time,waiting_person_hours,worst_station,worst_station_waiting,gave_up
+april_2024_replay,0,ai,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,77552,2086,2.69,98.9,38.8,72.5,32,2,2.686,100.0,3099,18.75,7305,Business Bay,2378,8766
+april_2024_replay,0,baseline,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,77552,0,0.0,3.0,37.3,51.6,52,2,4.268,80.3,4898,18.75,17480,Business Bay,4609,20976
+april_2024_replay,1,ai,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,76389,1010,1.32,98.9,39.4,72.5,32,2,2.543,100.0,2993,18.75,6764,Business Bay,2177,8117
+april_2024_replay,1,baseline,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,76389,0,0.0,2.6,36.7,51.4,50,2,4.255,81.9,4864,18.75,17801,Business Bay,4591,21362
+april_2024_replay,2,ai,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,77359,904,1.17,98.9,38.0,69.1,31,3,2.32,100.0,2714,18.75,5676,Business Bay,1862,6811
+april_2024_replay,2,baseline,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,77359,0,0.0,2.5,36.0,51.6,56,3,4.073,80.9,4644,18.75,16463,Business Bay,4335,19755
+april_2024_replay,3,ai,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,78470,255,0.32,98.9,38.0,69.1,32,3,2.304,100.0,2874,18.75,6049,Business Bay,1839,7259
+april_2024_replay,3,baseline,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,78470,0,0.0,3.0,35.6,51.6,58,3,4.169,82.4,4785,18.75,17316,Business Bay,4470,20779
+april_2024_replay,4,ai,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,76367,399,0.52,98.9,38.4,69.1,28,2,2.37,100.0,2722,18.75,5775,Business Bay,1932,6929
+april_2024_replay,4,baseline,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,76367,0,0.0,1.7,36.1,51.6,51,2,4.12,81.4,4690,18.75,16553,Business Bay,4400,19863
+april_2024_replay,5,ai,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,75628,799,1.06,98.8,38.8,69.1,33,3,2.369,100.0,3039,18.75,6360,Business Bay,1931,7632
+april_2024_replay,5,baseline,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,75628,0,0.0,2.0,36.8,51.4,55,3,4.238,81.4,4955,18.75,17753,Business Bay,4568,21304
+april_2024_replay,6,ai,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,73258,399,0.55,98.8,38.7,69.1,37,3,2.408,100.0,3091,18.75,6565,Business Bay,1985,7878
+april_2024_replay,6,baseline,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,73258,0,0.0,2.0,36.4,51.4,52,3,4.306,82.9,5030,18.75,18008,Business Bay,4663,21609
+april_2024_replay,7,ai,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,70938,391,0.55,98.8,37.4,69.1,31,3,2.291,100.0,2646,18.75,5307,Business Bay,1821,6369
+april_2024_replay,7,baseline,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,70938,0,0.0,3.9,34.8,51.5,48,3,3.972,78.3,4602,18.75,15172,Business Bay,4192,18207
+april_2024_replay,8,ai,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,75817,891,1.18,98.9,38.8,69.1,32,2,2.403,100.0,2758,18.75,5915,Business Bay,1978,7098
+april_2024_replay,8,baseline,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,75817,0,0.0,2.6,36.9,51.6,49,2,4.14,79.0,4718,18.75,16373,Business Bay,4429,19648
+april_2024_replay,9,ai,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,76588,408,0.53,98.8,39.7,69.1,33,2,2.464,100.0,3096,18.75,6870,Business Bay,2064,8244
+april_2024_replay,9,baseline,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,76588,0,0.0,1.4,37.8,51.5,49,2,4.36,81.9,5026,18.75,18627,Business Bay,4739,22352
+april_2024_replay,10,ai,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,77330,885,1.14,98.9,39.6,72.5,32,2,2.513,100.0,3014,18.75,6757,Business Bay,2134,8108
+april_2024_replay,10,baseline,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,77330,0,0.0,2.2,37.3,51.6,49,2,4.375,81.4,5049,18.75,18375,Business Bay,4760,22051
+april_2024_replay,11,ai,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,75386,832,1.1,98.8,38.1,69.1,36,3,2.451,100.0,2914,18.75,6245,Business Bay,2046,7494
+april_2024_replay,11,baseline,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,75386,0,0.0,1.4,35.9,51.5,54,3,4.115,81.9,4762,18.75,16665,Business Bay,4394,19998
+april_2024_replay,12,ai,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,76498,1276,1.67,98.9,38.3,72.5,36,3,2.475,100.0,2746,18.75,5865,Business Bay,2080,7038
+april_2024_replay,12,baseline,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,76498,0,0.0,2.2,35.6,51.5,56,3,4.031,81.9,4657,18.75,16242,Business Bay,4275,19490
+april_2024_replay,13,ai,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,79825,391,0.49,98.9,38.5,69.1,30,3,2.137,100.0,2483,18.75,4783,Business Bay,1604,5739
+april_2024_replay,13,baseline,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,79825,0,0.0,2.9,35.8,51.5,58,3,3.901,82.9,4508,18.75,15597,Business Bay,4092,18716
+april_2024_replay,14,ai,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,69658,1348,1.94,98.8,38.9,69.1,32,2,2.521,100.0,3072,18.75,6913,Business Bay,2145,8296
+april_2024_replay,14,baseline,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,69658,0,0.0,4.7,36.6,51.4,40,2,4.219,75.0,4813,18.75,16309,Business Bay,4540,19570
+april_2024_replay,15,ai,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,73255,1227,1.67,98.8,39.4,72.5,32,2,2.523,100.0,2877,18.75,6441,Business Bay,2148,7729
+april_2024_replay,15,baseline,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,73255,0,0.0,2.9,37.0,51.4,50,2,4.224,81.9,4823,18.75,17631,Business Bay,4547,21157
+april_2024_replay,16,ai,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,70513,1612,2.29,98.8,38.2,72.5,36,3,2.493,100.0,2879,18.75,6301,Business Bay,2106,7561
+april_2024_replay,16,baseline,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,70513,0,0.0,2.3,35.8,51.4,48,3,4.125,79.0,4732,18.75,16255,Business Bay,4408,19506
+april_2024_replay,17,ai,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,76022,0,0.0,98.8,38.1,58.4,50,3,4.075,100.0,4676,18.75,16070,Business Bay,4338,19284
+april_2024_replay,17,baseline,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,76022,0,0.0,1.9,35.8,51.4,54,3,4.075,81.4,4676,18.75,16235,Business Bay,4338,19482
+april_2024_replay,18,ai,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,76381,832,1.09,98.8,38.0,69.1,33,2,2.392,100.0,2960,18.75,6388,Business Bay,1963,7666
+april_2024_replay,18,baseline,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,76381,0,0.0,1.4,35.8,51.4,51,2,4.226,82.4,4823,18.75,17622,Business Bay,4549,21146
+april_2024_replay,19,ai,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,77022,133,0.17,98.9,40.6,61.3,45,2,4.015,100.0,4508,18.75,15392,Burj Khalifa/ Dubai Mall,4219,18470
+april_2024_replay,19,baseline,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,77022,0,0.0,2.5,36.5,51.6,53,2,4.149,81.4,4730,18.75,16920,Business Bay,4441,20305
+april_2024_replay,20,ai,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,77002,1276,1.66,98.9,40.2,72.5,32,2,2.581,100.0,3147,18.75,7214,Business Bay,2230,8657
+april_2024_replay,20,baseline,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,77002,0,0.0,1.7,38.1,51.6,49,2,4.367,81.4,5039,18.75,18447,Business Bay,4749,22137
+april_2024_replay,21,ai,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,74893,759,1.01,98.8,37.5,69.1,30,3,2.163,100.0,2615,18.75,5158,Business Bay,1641,6190
+april_2024_replay,21,baseline,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,74893,0,0.0,1.8,34.9,51.4,52,3,3.882,81.2,4436,18.75,14765,Business Bay,4065,17718
+april_2024_replay,22,ai,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,75400,610,0.81,98.9,37.9,69.1,28,2,2.348,100.0,3025,18.75,6523,Business Bay,1902,7828
+april_2024_replay,22,baseline,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,75400,0,0.0,2.9,35.4,51.4,49,2,4.213,81.9,4808,18.75,17290,Business Bay,4532,20748
+april_2024_replay,23,ai,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,72962,532,0.73,98.8,38.4,69.1,36,3,2.464,100.0,2789,18.75,5902,Business Bay,2064,7082
+april_2024_replay,23,baseline,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,72962,0,0.0,2.1,35.7,51.4,53,3,4.007,79.7,4640,18.75,15803,Business Bay,4241,18964
+april_2024_replay,24,ai,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,76076,526,0.69,98.8,37.8,69.1,30,3,2.346,100.0,2497,18.75,4987,Business Bay,1898,5984
+april_2024_replay,24,baseline,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,76076,0,0.0,2.3,35.1,51.6,53,3,3.838,76.3,4423,18.75,14485,Business Bay,4003,17383
+april_2024_replay,25,ai,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,77139,133,0.17,98.9,38.5,69.1,36,3,2.391,100.0,2734,18.75,5599,Business Bay,1962,6718
+april_2024_replay,25,baseline,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,77139,0,0.0,3.1,35.9,51.6,54,3,4.08,80.3,4771,18.75,16264,Business Bay,4344,19517
+april_2024_replay,26,ai,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,67845,486,0.72,98.7,38.5,69.1,32,2,2.439,100.0,2597,18.75,5594,Business Bay,2029,6713
+april_2024_replay,26,baseline,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,67845,0,0.0,1.8,36.1,51.4,41,2,4.063,75.0,4597,18.75,15452,Business Bay,4321,18543
+april_2024_replay,27,ai,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,76696,1195,1.56,98.9,38.5,72.5,32,2,2.622,100.0,3122,18.75,7236,Business Bay,2288,8684
+april_2024_replay,27,baseline,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,76696,0,0.0,2.8,36.1,51.4,52,2,4.287,82.4,4908,18.75,18030,Business Bay,4637,21636
+april_2024_replay,28,ai,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,78813,971,1.23,98.8,38.2,69.1,28,2,2.384,100.0,2846,18.75,6091,Business Bay,1952,7309
+april_2024_replay,28,baseline,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,78813,0,0.0,2.3,35.7,51.4,53,2,4.083,82.9,4609,18.75,16716,Business Bay,4349,20059
+april_2024_replay,29,ai,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,78730,260,0.33,98.9,39.4,69.1,37,3,2.924,100.0,3195,18.75,7937,Business Bay,2713,9524
+april_2024_replay,29,baseline,4,Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,78730,0,0.0,2.7,34.6,51.4,63,3,3.703,84.3,4412,18.75,13849,Business Bay,3813,16618
+extreme_storm,0,ai,8,DAMAC Properties;Dubai Internet City;Energy;First Abu Dhabi Bank;Mashreq;Nakheel;Noor Bank;World Trade Centre,190777,8241,4.32,64.2,39.8,65.3,74,4,3.108,100.0,7324,18.75,25246,BurJuman,4333,30295
+extreme_storm,0,baseline,8,DAMAC Properties;Dubai Internet City;Energy;First Abu Dhabi Bank;Mashreq;Nakheel;Noor Bank;World Trade Centre,190777,3675,1.93,3.1,61.3,129.2,65,3,25.236,92.2,14251,18.75,75105,Al Jafiliya,13792,89150
+extreme_storm,1,ai,9,DAMAC Properties;Dubai Internet City;Energy;Financial Centre;First Abu Dhabi Bank;Mashreq;Nakheel;Noor Bank;Oud Metha,177215,8581,4.84,39.7,48.6,82.8,116,6,5.943,100.0,13090,18.75,43185,ADCB,5043,51822
+extreme_storm,1,baseline,9,DAMAC Properties;Dubai Internet City;Energy;Financial Centre;First Abu Dhabi Bank;Mashreq;Nakheel;Noor Bank;Oud Metha,177215,2510,1.42,8.0,55.0,113.9,75,4,20.916,93.3,17224,18.75,80601,Emirates Towers,16177,95639
+extreme_storm,2,ai,10,DAMAC Properties;Dubai Internet City;Energy;First Abu Dhabi Bank;GGICO;Mashreq;Nakheel;Noor Bank;Oud Metha;UAE Exchange,149439,5105,3.42,60.9,37.0,67.9,74,5,5.599,100.0,7917,18.75,26751,Business Bay,6486,32101
+extreme_storm,2,baseline,10,DAMAC Properties;Dubai Internet City;Energy;First Abu Dhabi Bank;GGICO;Mashreq;Nakheel;Noor Bank;Oud Metha;UAE Exchange,149439,1095,0.73,14.3,42.5,76.5,87,5,7.121,83.7,10032,18.75,46942,Business Bay,8633,56330
+extreme_storm,3,ai,10,DAMAC Properties;Dubai Internet City;Energy;Financial Centre;First Abu Dhabi Bank;Mashreq;Nakheel;Noor Bank;The Gardens;UAE Exchange,217283,10825,4.98,56.4,63.7,87.4,144,4,6.264,100.0,14849,18.75,64912,ADCB,5238,77895
+extreme_storm,3,baseline,10,DAMAC Properties;Dubai Internet City;Energy;Financial Centre;First Abu Dhabi Bank;Mashreq;Nakheel;Noor Bank;The Gardens;UAE Exchange,217283,4199,1.93,3.7,71.0,131.0,94,3,26.1,52.7,21021,18.75,125124,Emirates Towers,20388,148708
+extreme_storm,4,ai,9,DAMAC Properties;DMCC;Dubai Healthcare City;Dubai Internet City;Energy;First Abu Dhabi Bank;Mashreq;Nakheel;Noor Bank,149691,8614,5.75,50.3,42.3,63.7,77,3,5.284,100.0,9907,18.75,36403,Business Bay,6043,43683
+extreme_storm,4,baseline,9,DAMAC Properties;DMCC;Dubai Healthcare City;Dubai Internet City;Energy;First Abu Dhabi Bank;Mashreq;Nakheel;Noor Bank,149691,1529,1.02,5.2,57.1,85.7,113,4,9.649,51.8,13502,18.75,67731,Business Bay,11674,81086
+extreme_storm,5,ai,9,DAMAC Properties;Dubai Internet City;Energy;First Abu Dhabi Bank;GGICO;Mashreq;Nakheel;Noor Bank;Oud Metha,144293,4173,2.89,59.3,39.4,75.6,73,5,5.254,100.0,7702,18.75,26029,Business Bay,6000,31234
+extreme_storm,5,baseline,9,DAMAC Properties;Dubai Internet City;Energy;First Abu Dhabi Bank;GGICO;Mashreq;Nakheel;Noor Bank;Oud Metha,144293,974,0.67,13.9,42.0,74.2,73,4,6.986,94.3,9449,18.75,43422,Business Bay,8443,52107
+extreme_storm,6,ai,10,DAMAC Properties;DMCC;Dubai Internet City;Emirates Towers;Energy;Financial Centre;First Abu Dhabi Bank;Mall of the Emirates;Mashreq;Noor Bank,204211,8629,4.23,48.1,55.5,84.0,132,5,6.333,100.0,15685,18.75,59821,BurJuman,6661,71786
+extreme_storm,6,baseline,10,DAMAC Properties;DMCC;Dubai Internet City;Emirates Towers;Energy;Financial Centre;First Abu Dhabi Bank;Mall of the Emirates;Mashreq;Noor Bank,204211,4236,2.07,7.7,61.2,77.9,94,3,32.348,55.8,22833,18.75,126763,World Trade Centre,20672,150360
+extreme_storm,7,ai,11,Burj Khalifa/ Dubai Mall;DAMAC Properties;Dubai Internet City;Emirates Towers;Energy;First Abu Dhabi Bank;Mashreq;Nakheel;Noor Bank;Oud Metha;UAE Exchange,197683,9802,4.96,39.2,45.8,76.4,112,7,5.56,100.0,13267,18.75,46736,BurJuman,5873,56083
+extreme_storm,7,baseline,11,Burj Khalifa/ Dubai Mall;DAMAC Properties;Dubai Internet City;Emirates Towers;Energy;First Abu Dhabi Bank;Mashreq;Nakheel;Noor Bank;Oud Metha;UAE Exchange,197683,3804,1.92,8.5,33.8,79.0,86,5,26.638,88.4,18342,18.75,94172,World Trade Centre,16906,111708
+extreme_storm,8,ai,7,DAMAC Properties;DMCC;Dubai Internet City;Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,138365,8577,6.2,59.4,47.4,63.3,78,3,5.201,100.0,9788,18.75,36187,Business Bay,5925,43424
+extreme_storm,8,baseline,7,DAMAC Properties;DMCC;Dubai Internet City;Energy;First Abu Dhabi Bank;Mashreq;Noor Bank,138365,759,0.55,1.0,65.9,82.1,99,3,12.693,50.0,12535,18.75,65090,Business Bay,11368,77925
+extreme_storm,9,ai,8,ADCB;DAMAC Properties;DMCC;Dubai Internet City;First Abu Dhabi Bank;Mashreq;Noor Bank;Oud Metha,167307,6264,3.74,48.6,49.4,95.7,87,4,6.727,100.0,9535,18.75,38434,Business Bay,8077,46121
+extreme_storm,9,baseline,8,ADCB;DAMAC Properties;DMCC;Dubai Internet City;First Abu Dhabi Bank;Mashreq;Noor Bank;Oud Metha,167307,70,0.04,18.4,50.6,95.0,119,4,18.903,72.6,13819,18.75,67659,Business Bay,10687,81029
+extreme_storm,10,ai,7,DAMAC Properties;Dubai Internet City;Energy;First Abu Dhabi Bank;Mashreq;Nakheel;Noor Bank,118006,2079,1.76,70.1,49.8,76.0,58,3,5.904,100.0,7511,18.75,30458,Business Bay,6916,36550
+extreme_storm,10,baseline,7,DAMAC Properties;Dubai Internet City;Energy;First Abu Dhabi Bank;Mashreq;Nakheel;Noor Bank,118006,118,0.1,12.9,53.6,70.4,67,2,7.359,86.4,9253,18.75,44273,Business Bay,8969,53128
+extreme_storm,11,ai,9,DAMAC Properties;Dubai Internet City;First Abu Dhabi Bank;GGICO;Mashreq;Nakheel;Noor Bank;Oud Metha;UAE Exchange,141099,1054,0.75,64.2,36.7,66.0,74,4,5.485,100.0,7550,18.75,25264,Business Bay,6325,30317
+extreme_storm,11,baseline,9,DAMAC Properties;Dubai Internet City;First Abu Dhabi Bank;GGICO;Mashreq;Nakheel;Noor Bank;Oud Metha;UAE Exchange,141099,90,0.06,14.6,40.1,73.8,81,4,6.96,85.1,9399,18.75,43836,Business Bay,8406,52603
+extreme_storm,12,ai,11,DAMAC Properties;DMCC;Dubai Healthcare City;Dubai Internet City;Energy;First Abu Dhabi Bank;Jumeirah Golf Estates;Mashreq;Nakheel;Noor Bank;World Trade Centre,225693,16159,7.16,46.0,45.1,77.9,106,5,3.799,100.0,10624,18.75,33682,BurJuman,5752,40419
+extreme_storm,12,baseline,11,DAMAC Properties;DMCC;Dubai Healthcare City;Dubai Internet City;Energy;First Abu Dhabi Bank;Jumeirah Golf Estates;Mashreq;Nakheel;Noor Bank;World Trade Centre,225693,14038,6.22,3.1,34.3,85.4,103,3,30.064,55.4,19045,18.75,100871,Al Jafiliya,16539,119711
+extreme_storm,13,ai,10,Business Bay;DAMAC Properties;Dubai Internet City;Energy;Financial Centre;First Abu Dhabi Bank;Mashreq;Nakheel;Noor Bank;Oud Metha,204386,10089,4.94,44.3,47.1,82.8,138,6,5.626,100.0,12795,18.75,49672,ADCB,4688,59607
+extreme_storm,13,baseline,10,Business Bay;DAMAC Properties;Dubai Internet City;Energy;Financial Centre;First Abu Dhabi Bank;Mashreq;Nakheel;Noor Bank;Oud Metha,204386,2828,1.38,7.2,52.8,111.1,80,4,21.11,92.5,17325,18.75,95116,Emirates Towers,16334,113102
+extreme_storm,14,ai,12,ADCB;Al Fahidi;DAMAC Properties;Dubai Internet City;Energy;Financial Centre;First Abu Dhabi Bank;Mashreq;Noor Bank;Oud Metha;UAE Exchange;World Trade Centre,253401,12617,4.98,57.9,44.0,77.9,105,6,4.846,100.0,11566,18.75,34978,Al Rigga,5393,41973
+extreme_storm,14,baseline,12,ADCB;Al Fahidi;DAMAC Properties;Dubai Internet City;Energy;Financial Centre;First Abu Dhabi Bank;Mashreq;Noor Bank;Oud Metha;UAE Exchange;World Trade Centre,253401,8131,3.21,12.8,58.5,102.1,78,3,10.741,77.3,22251,18.75,101265,BurJuman,20020,120951
+extreme_storm,15,ai,10,DMCC;Dubai Internet City;Energy;First Abu Dhabi Bank;GGICO;Mashreq;Nakheel;Noor Bank;Oud Metha;UAE Exchange,163095,8792,5.39,40.8,40.2,65.1,90,5,5.176,100.0,9845,18.75,38188,Business Bay,5890,45825
+extreme_storm,15,baseline,10,DMCC;Dubai Internet City;Energy;First Abu Dhabi Bank;GGICO;Mashreq;Nakheel;Noor Bank;Oud Metha;UAE Exchange,163095,2565,1.57,11.0,50.7,86.7,119,5,11.881,53.9,12975,18.75,65394,Business Bay,11262,78313
+extreme_storm,16,ai,11,Burj Khalifa/ Dubai Mall;DAMAC Properties;Dubai Internet City;Energy;First Abu Dhabi Bank;Jumeirah Golf Estates;Mashreq;Nakheel;Noor Bank;Oud Metha;UAE Exchange,188976,17318,9.16,41.1,48.6,85.1,125,6,9.17,100.0,12463,18.75,48359,Financial Centre,5263,57951
+extreme_storm,16,baseline,11,Burj Khalifa/ Dubai Mall;DAMAC Properties;Dubai Internet City;Energy;First Abu Dhabi Bank;Jumeirah Golf Estates;Mashreq;Nakheel;Noor Bank;Oud Metha;UAE Exchange,188976,5314,2.81,7.4,46.8,124.3,104,5,24.597,77.1,16564,18.75,83606,Financial Centre,15202,99271
+extreme_storm,17,ai,9,ADCB;Dubai Internet City;Financial Centre;First Abu Dhabi Bank;Mall of the Emirates;Mashreq;Nakheel;Noor Bank;Oud Metha,208703,3444,1.65,56.3,40.5,70.1,117,9,5.078,98.9,8656,18.75,28268,Union,3835,33921
+extreme_storm,17,baseline,9,ADCB;Dubai Internet City;Financial Centre;First Abu Dhabi Bank;Mall of the Emirates;Mashreq;Nakheel;Noor Bank;Oud Metha,208703,53,0.03,9.0,54.7,90.9,94,3,14.299,69.8,19048,18.75,88734,BurJuman,15708,106202
+extreme_storm,18,ai,10,DAMAC Properties;Dubai Internet City;First Abu Dhabi Bank;Mall of the Emirates;Mashreq;Nakheel;Noor Bank;Oud Metha;The Gardens;UAE Exchange,143987,1891,1.31,58.0,40.8,72.2,140,7,5.928,100.0,8624,18.75,31247,Business Bay,6950,37496
+extreme_storm,18,baseline,10,DAMAC Properties;Dubai Internet City;First Abu Dhabi Bank;Mall of the Emirates;Mashreq;Nakheel;Noor Bank;Oud Metha;The Gardens;UAE Exchange,143987,16,0.01,14.0,41.3,72.8,120,5,10.479,55.4,10260,18.75,47517,Business Bay,8472,57002
+extreme_storm,19,ai,8,DAMAC Properties;Dubai Internet City;Energy;First Abu Dhabi Bank;Mashreq;Nakheel;Noor Bank;Oud Metha,146110,4975,3.4,50.8,39.9,76.0,78,4,5.766,100.0,8474,18.75,31382,Business Bay,6722,37659
+extreme_storm,19,baseline,8,DAMAC Properties;Dubai Internet City;Energy;First Abu Dhabi Bank;Mashreq;Nakheel;Noor Bank;Oud Metha,146110,127,0.09,10.9,43.7,68.2,70,3,7.152,90.4,9679,18.75,45122,Business Bay,8677,54146
+extreme_storm,20,ai,8,Al Jafiliya;DAMAC Properties;Dubai Internet City;Energy;First Abu Dhabi Bank;Mashreq;Nakheel;Noor Bank,127636,7402,5.8,63.7,49.3,75.9,61,3,4.131,100.0,7098,18.75,24087,Business Bay,4416,28905
+extreme_storm,20,baseline,8,Al Jafiliya;DAMAC Properties;Dubai Internet City;Energy;First Abu Dhabi Bank;Mashreq;Nakheel;Noor Bank,127636,2323,1.82,10.1,55.7,82.6,59,3,7.145,90.5,8936,18.75,44880,Business Bay,8667,53856
+extreme_storm,21,ai,10,DAMAC Properties;DMCC;Dubai Internet City;Financial Centre;First Abu Dhabi Bank;Jumeirah Golf Estates;Mall of the Emirates;Mashreq;Noor Bank;Oud Metha,207898,10441,5.02,35.5,53.0,89.4,150,7,8.696,99.3,15647,18.75,59531,Emirates Towers,6251,71360
+extreme_storm,21,baseline,10,DAMAC Properties;DMCC;Dubai Internet City;Financial Centre;First Abu Dhabi Bank;Jumeirah Golf Estates;Mall of the Emirates;Mashreq;Noor Bank;Oud Metha,207898,2103,1.01,7.7,48.1,125.1,134,5,23.846,53.7,21134,18.75,108873,Emirates Towers,18557,129238
+extreme_storm,22,ai,9,Burj Khalifa/ Dubai Mall;DAMAC Properties;Dubai Internet City;Emirates Towers;Energy;First Abu Dhabi Bank;Mashreq;Noor Bank;Oud Metha,205170,9685,4.72,40.3,46.1,77.4,121,7,7.099,99.7,13011,18.75,49271,BurJuman,5296,59125
+extreme_storm,22,baseline,9,Burj Khalifa/ Dubai Mall;DAMAC Properties;Dubai Internet City;Emirates Towers;Energy;First Abu Dhabi Bank;Mashreq;Noor Bank;Oud Metha,205170,3520,1.72,7.1,35.3,78.5,83,5,23.73,88.2,16692,18.75,91940,World Trade Centre,14989,109098
+extreme_storm,23,ai,9,Burj Khalifa/ Dubai Mall;DAMAC Properties;Dubai Internet City;Financial Centre;First Abu Dhabi Bank;Mashreq;Nakheel;Noor Bank;Rashidiya,167816,658,0.39,64.7,53.9,85.5,139,6,7.167,100.0,14204,18.75,55623,ADCB,5059,66748
+extreme_storm,23,baseline,9,Burj Khalifa/ Dubai Mall;DAMAC Properties;Dubai Internet City;Financial Centre;First Abu Dhabi Bank;Mashreq;Nakheel;Noor Bank;Rashidiya,167816,0,0.0,10.8,69.0,115.6,82,3,20.412,91.9,17710,18.75,89144,Emirates Towers,15768,105979
+extreme_storm,24,ai,11,Burj Khalifa/ Dubai Mall;Business Bay;DAMAC Properties;Dubai Internet City;Financial Centre;First Abu Dhabi Bank;Mashreq;Nakheel;Noor Bank;Oud Metha;World Trade Centre,209105,3168,1.51,29.2,43.6,71.7,115,5,4.069,100.0,12773,18.75,40491,BurJuman,6307,48589
+extreme_storm,24,baseline,11,Burj Khalifa/ Dubai Mall;Business Bay;DAMAC Properties;Dubai Internet City;Financial Centre;First Abu Dhabi Bank;Mashreq;Nakheel;Noor Bank;Oud Metha;World Trade Centre,209105,74,0.04,8.4,23.5,68.6,74,3,33.599,88.6,20713,18.75,104872,Al Jafiliya,18551,124410
+extreme_storm,25,ai,11,DAMAC Properties;Dubai Internet City;Energy;Financial Centre;First Abu Dhabi Bank;GGICO;Mall of the Emirates;Mashreq;Nakheel;Noor Bank;Oud Metha,188539,8420,4.47,52.4,46.9,85.5,114,6,6.051,99.6,12888,18.75,43472,ADCB,5153,52166
+extreme_storm,25,baseline,11,DAMAC Properties;Dubai Internet City;Energy;Financial Centre;First Abu Dhabi Bank;GGICO;Mall of the Emirates;Mashreq;Nakheel;Noor Bank;Oud Metha,188539,4026,2.14,12.3,47.3,114.4,66,4,20.326,89.3,16750,18.75,77252,Emirates Towers,15698,91672
+extreme_storm,26,ai,11,Al Furjan;Baniyas Square;DAMAC Properties;Dubai Internet City;Energy;First Abu Dhabi Bank;Jumeirah Golf Estates;Mashreq;Nakheel;Noor Bank;UAE Exchange,138952,10558,7.6,64.0,49.3,77.2,78,5,6.003,100.0,8688,18.75,29375,Business Bay,7056,35250
+extreme_storm,26,baseline,11,Al Furjan;Baniyas Square;DAMAC Properties;Dubai Internet City;Energy;First Abu Dhabi Bank;Jumeirah Golf Estates;Mashreq;Nakheel;Noor Bank;UAE Exchange,138952,1574,1.13,11.9,58.9,89.3,118,4,7.644,59.6,11725,18.75,53294,Business Bay,9298,63953
+extreme_storm,27,ai,8,Dubai Internet City;Energy;Financial Centre;First Abu Dhabi Bank;Mashreq;Nakheel;Noor Bank;Oud Metha,185024,8228,4.45,57.7,42.9,74.0,131,6,4.624,100.0,11027,18.75,37031,ADCB,3678,44437
+extreme_storm,27,baseline,8,Dubai Internet City;Energy;Financial Centre;First Abu Dhabi Bank;Mashreq;Nakheel;Noor Bank;Oud Metha,185024,1606,0.87,7.1,52.3,108.1,88,4,18.442,86.8,15942,18.75,79883,Emirates Towers,14168,95032
+extreme_storm,28,ai,7,Business Bay;Dubai Internet City;First Abu Dhabi Bank;Mashreq;Nakheel;Noor Bank;Oud Metha,142524,19,0.01,68.8,34.8,63.6,84,4,4.625,100.0,9281,18.75,30399,Burj Khalifa/ Dubai Mall,5072,36479
+extreme_storm,28,baseline,7,Business Bay;Dubai Internet City;First Abu Dhabi Bank;Mashreq;Nakheel;Noor Bank;Oud Metha,142524,0,0.0,29.5,36.9,70.9,82,3,7.451,84.5,10961,18.75,45897,Burj Khalifa/ Dubai Mall,9026,55076
+extreme_storm,29,ai,11,Airport Terminal 1;Al Qiyadah;Burj Khalifa/ Dubai Mall;DAMAC Properties;Dubai Internet City;Energy;First Abu Dhabi Bank;Mashreq;Nakheel;Noor Bank;Oud Metha,194931,8560,4.39,51.9,45.4,80.6,131,7,9.781,99.2,13124,18.25,47998,Financial Centre,5657,57598
+extreme_storm,29,baseline,11,Airport Terminal 1;Al Qiyadah;Burj Khalifa/ Dubai Mall;DAMAC Properties;Dubai Internet City;Energy;First Abu Dhabi Bank;Mashreq;Nakheel;Noor Bank;Oud Metha,194931,3699,1.9,12.8,43.7,124.2,99,6,24.646,87.9,17158,18.25,86816,Financial Centre,15234,103170
+interchange_failure,0,ai,1,BurJuman,101500,0,0.0,100.0,12.8,19.3,69,3,2.568,100.0,3047,8.75,9583,ADCB,1599,11499
+interchange_failure,0,baseline,1,BurJuman,101500,0,0.0,58.6,12.7,24.0,68,2,3.896,100.0,3916,8.75,17717,ADCB,2955,21260
+interchange_failure,1,ai,1,BurJuman,101500,0,0.0,100.0,10.8,17.7,52,4,2.436,100.0,2260,8.75,6084,ADCB,1465,7301
+interchange_failure,1,baseline,1,BurJuman,101500,0,0.0,58.6,10.2,18.7,52,2,2.88,100.0,3546,8.75,12815,ADCB,1918,15378
+interchange_failure,2,ai,1,BurJuman,101500,0,0.0,100.0,12.1,19.7,43,3,2.767,100.0,2443,8.75,7753,ADCB,1803,9303
+interchange_failure,2,baseline,1,BurJuman,101500,0,0.0,58.6,11.3,21.7,59,2,3.432,100.0,3649,8.75,14653,ADCB,2481,17583
+interchange_failure,3,ai,1,BurJuman,101500,0,0.0,100.0,12.1,23.1,42,2,3.408,100.0,2553,8.75,11564,ADCB,2456,13876
+interchange_failure,3,baseline,1,BurJuman,101500,0,0.0,58.6,11.3,21.5,59,2,3.408,100.0,3778,8.75,15182,ADCB,2456,18218
+interchange_failure,4,ai,1,BurJuman,101500,0,0.0,100.0,9.7,17.5,63,3,2.606,100.0,2746,8.75,7895,ADCB,1639,9474
+interchange_failure,4,baseline,1,BurJuman,101500,0,0.0,58.6,11.1,22.7,58,2,3.63,100.0,3279,8.75,13955,ADCB,2683,16747
+interchange_failure,5,ai,1,BurJuman,101500,0,0.0,100.0,10.2,20.6,54,2,3.144,100.0,3176,8.75,11756,ADCB,2187,14107
+interchange_failure,5,baseline,1,BurJuman,101500,0,0.0,58.6,10.5,20.2,57,2,3.144,100.0,3564,8.75,13461,ADCB,2187,16154
+interchange_failure,6,ai,1,BurJuman,101500,0,0.0,100.0,10.4,18.8,49,2,2.832,100.0,3043,8.75,10377,ADCB,1869,12453
+interchange_failure,6,baseline,1,BurJuman,101500,0,0.0,58.6,10.7,21.1,56,2,3.316,100.0,3512,8.75,13688,ADCB,2362,16425
+interchange_failure,7,ai,1,BurJuman,101500,0,0.0,100.0,11.1,17.5,53,4,2.354,100.0,2454,8.75,5931,ADCB,1381,7117
+interchange_failure,7,baseline,1,BurJuman,101500,0,0.0,58.6,10.8,18.9,55,2,2.914,100.0,3830,8.75,14283,ADCB,1952,17140
+interchange_failure,8,ai,1,BurJuman,101500,0,0.0,100.0,11.5,17.5,59,4,2.192,100.0,2543,8.75,5853,ADCB,1216,7023
+interchange_failure,8,baseline,1,BurJuman,101500,0,0.0,58.6,11.3,21.0,58,2,3.3,100.0,3764,8.75,14811,ADCB,2347,17774
+interchange_failure,9,ai,1,BurJuman,101500,0,0.0,100.0,10.3,18.1,52,2,2.716,100.0,3344,8.75,11549,ADCB,1750,13859
+interchange_failure,9,baseline,1,BurJuman,101500,0,0.0,58.6,10.3,18.9,53,2,2.912,100.0,3544,8.75,12863,ADCB,1951,15435
+interchange_failure,10,ai,1,BurJuman,101500,0,0.0,100.0,10.4,18.1,61,3,2.718,100.0,3326,8.75,10573,ADCB,1752,12687
+interchange_failure,10,baseline,1,BurJuman,101500,0,0.0,58.6,11.0,21.5,59,2,3.391,100.0,3846,8.75,15455,ADCB,2439,18546
+interchange_failure,11,ai,1,BurJuman,101500,0,0.0,100.0,9.4,18.5,48,2,2.778,100.0,2636,8.75,8594,ADCB,1814,10313
+interchange_failure,11,baseline,1,BurJuman,101500,0,0.0,58.6,10.3,18.1,52,2,2.778,100.0,3512,8.75,12475,ADCB,1814,14970
+interchange_failure,12,ai,1,BurJuman,101500,0,0.0,100.0,10.1,20.4,55,2,3.108,100.0,3213,8.75,11799,ADCB,2150,14158
+interchange_failure,12,baseline,1,BurJuman,101500,0,0.0,58.6,10.4,20.0,57,2,3.108,100.0,3581,8.75,13445,ADCB,2150,16134
+interchange_failure,13,ai,1,BurJuman,101500,0,0.0,100.0,9.1,15.2,51,3,2.218,100.0,2575,8.75,6553,ADCB,1243,7864
+interchange_failure,13,baseline,1,BurJuman,101500,0,0.0,58.6,9.4,19.2,50,2,2.959,100.0,3077,8.75,10837,ADCB,1998,13005
+interchange_failure,14,ai,1,BurJuman,101500,0,0.0,100.0,11.6,21.3,49,3,3.293,100.0,2859,8.75,11126,ADCB,2340,13351
+interchange_failure,14,baseline,1,BurJuman,101500,0,0.0,58.6,11.6,23.2,66,2,3.738,100.0,3707,8.75,16080,ADCB,2793,19296
+interchange_failure,15,ai,1,BurJuman,101500,0,0.0,100.0,10.8,20.5,50,3,3.142,100.0,2844,8.75,10387,ADCB,2185,12464
+interchange_failure,15,baseline,1,BurJuman,101500,0,0.0,58.6,10.2,20.2,55,2,3.142,100.0,3311,8.75,12312,ADCB,2185,14775
+interchange_failure,16,ai,1,BurJuman,101500,0,0.0,100.0,11.8,19.8,42,3,2.796,100.0,2345,8.75,7800,ADCB,1832,9360
+interchange_failure,16,baseline,1,BurJuman,101500,0,0.0,58.6,10.8,20.5,55,2,3.195,100.0,3264,8.75,12269,ADCB,2239,14723
+interchange_failure,17,ai,1,BurJuman,101500,0,0.0,100.0,9.9,16.0,64,3,2.243,100.0,3199,8.75,9204,Union,1530,11045
+interchange_failure,17,baseline,1,BurJuman,101500,0,0.0,58.6,10.4,19.4,54,2,2.996,100.0,3633,8.75,13460,ADCB,2036,16153
+interchange_failure,18,ai,1,BurJuman,101500,0,0.0,100.0,10.1,17.6,52,3,2.632,100.0,2966,8.75,9207,ADCB,1665,11048
+interchange_failure,18,baseline,1,BurJuman,101500,0,0.0,58.6,10.7,21.2,59,2,3.348,100.0,3576,8.75,14066,ADCB,2395,16879
+interchange_failure,19,ai,1,BurJuman,101500,0,0.0,100.0,10.6,18.2,66,3,2.732,100.0,3479,8.75,11130,ADCB,1767,13356
+interchange_failure,19,baseline,1,BurJuman,101500,0,0.0,58.6,11.4,21.9,59,2,3.487,100.0,3881,8.75,15891,ADCB,2537,19070
+interchange_failure,20,ai,1,BurJuman,101500,0,0.0,100.0,11.6,19.1,52,3,2.878,100.0,2908,8.75,9477,ADCB,1916,11373
+interchange_failure,20,baseline,1,BurJuman,101500,0,0.0,58.6,11.2,21.8,59,2,3.449,100.0,3763,8.75,15232,ADCB,2499,18278
+interchange_failure,21,ai,1,BurJuman,101500,0,0.0,100.0,9.5,16.8,56,3,2.488,100.0,2728,8.75,7667,ADCB,1518,9200
+interchange_failure,21,baseline,1,BurJuman,101500,0,0.0,58.6,10.5,20.4,55,2,3.185,100.0,3346,8.75,12587,ADCB,2229,15104
+interchange_failure,22,ai,1,BurJuman,101500,0,0.0,100.0,10.9,20.8,55,2,3.183,100.0,3379,8.75,12718,ADCB,2227,15261
+interchange_failure,22,baseline,1,BurJuman,101500,0,0.0,58.6,10.7,20.4,57,2,3.183,100.0,3447,8.75,13018,ADCB,2227,15622
+interchange_failure,23,ai,1,BurJuman,101500,0,0.0,100.0,9.6,15.7,53,3,2.306,100.0,2795,8.75,7797,ADCB,1332,9357
+interchange_failure,23,baseline,1,BurJuman,101500,0,0.0,58.6,10.3,19.3,53,2,2.979,100.0,3364,8.75,12157,ADCB,2019,14588
+interchange_failure,24,ai,1,BurJuman,101500,0,0.0,100.0,11.2,23.2,53,2,3.676,100.0,3259,8.75,14166,ADCB,2730,16999
+interchange_failure,24,baseline,1,BurJuman,101500,0,0.0,58.6,11.4,22.9,61,2,3.676,100.0,3659,8.75,15588,ADCB,2730,18706
+interchange_failure,25,ai,1,BurJuman,101500,0,0.0,100.0,9.9,17.2,65,3,2.568,100.0,2895,8.75,8202,ADCB,1600,9843
+interchange_failure,25,baseline,1,BurJuman,101500,0,0.0,58.6,10.7,22.1,56,2,3.526,100.0,3331,8.75,13675,ADCB,2577,16409
+interchange_failure,26,ai,1,BurJuman,101500,0,0.0,100.0,9.8,19.7,50,2,2.976,100.0,3040,8.75,10731,ADCB,2016,12877
+interchange_failure,26,baseline,1,BurJuman,101500,0,0.0,58.6,10.5,19.3,54,2,2.976,100.0,3794,8.75,14207,ADCB,2016,17048
+interchange_failure,27,ai,1,BurJuman,101500,0,0.0,100.0,12.0,22.6,49,3,3.31,100.0,2760,8.75,11168,ADCB,2357,13401
+interchange_failure,27,baseline,1,BurJuman,101500,0,0.0,58.6,10.7,21.1,58,2,3.31,100.0,3540,8.75,13791,ADCB,2357,16549
+interchange_failure,28,ai,1,BurJuman,101500,0,0.0,100.0,11.3,20.8,45,3,3.007,100.0,2640,8.75,9326,ADCB,2047,11191
+interchange_failure,28,baseline,1,BurJuman,101500,0,0.0,58.6,10.1,19.5,53,2,3.007,100.0,3325,8.75,12038,ADCB,2047,14446
+interchange_failure,29,ai,1,BurJuman,101500,0,0.0,100.0,10.7,17.3,65,3,2.583,100.0,2934,8.75,8187,ADCB,1615,9825
+interchange_failure,29,baseline,1,BurJuman,101500,0,0.0,58.6,11.3,23.1,66,2,3.712,100.0,3543,8.75,15301,ADCB,2767,18361
+moderate_storm,0,ai,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,0,baseline,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,1,ai,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,1,baseline,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,2,ai,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,2,baseline,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,3,ai,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,3,baseline,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,4,ai,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,4,baseline,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,5,ai,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,5,baseline,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,6,ai,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,6,baseline,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,7,ai,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,7,baseline,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,8,ai,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,8,baseline,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,9,ai,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,9,baseline,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,10,ai,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,10,baseline,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,11,ai,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,11,baseline,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,12,ai,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,12,baseline,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,13,ai,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,13,baseline,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,14,ai,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,14,baseline,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,15,ai,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,15,baseline,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,16,ai,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,16,baseline,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,17,ai,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,17,baseline,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,18,ai,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,18,baseline,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,19,ai,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,19,baseline,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,20,ai,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,20,baseline,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,21,ai,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,21,baseline,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,22,ai,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,22,baseline,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,23,ai,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,23,baseline,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,24,ai,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,24,baseline,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,25,ai,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,25,baseline,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,26,ai,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,26,baseline,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,27,ai,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,27,baseline,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,28,ai,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,28,baseline,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,29,ai,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+moderate_storm,29,baseline,0,,0,0,0.0,0.0,0.0,0.0,0,0,0.769,,0,5.0,0,,0,0
+random_closures,0,ai,4,Airport Terminal 3;DMCC;Jumeirah Golf Estates;Nakheel,109647,4,0.0,89.9,30.6,63.8,72,3,3.396,100.0,3401,18.75,12275,Dubai Internet City,2538,14729
+random_closures,0,baseline,4,Airport Terminal 3;DMCC;Jumeirah Golf Estates;Nakheel,109647,0,0.0,44.9,27.9,51.3,167,4,5.176,57.2,5244,18.75,24672,Dubai Internet City,3356,29606
+random_closures,1,ai,4,Al Jafiliya;DMCC;Deira City Centre;The Gardens,155563,0,0.0,93.7,19.4,53.9,58,3,12.835,100.0,2585,18.75,7555,Dubai Internet City,1387,9066
+random_closures,1,baseline,4,Al Jafiliya;DMCC;Deira City Centre;The Gardens,155563,0,0.0,94.3,14.4,37.7,84,3,12.835,36.0,3996,8.75,13871,Al Rigga,3107,16646
+random_closures,2,ai,4,Al Qusais;Discovery Gardens;Gold Souq;Mall of the Emirates,89584,0,0.0,74.8,22.1,33.2,69,4,2.329,100.0,1493,18.75,3586,Noor Bank,756,4303
+random_closures,2,baseline,4,Al Qusais;Discovery Gardens;Gold Souq;Mall of the Emirates,89584,0,0.0,63.3,18.8,27.5,92,4,3.588,75.9,2972,18.75,11198,First Abu Dhabi Bank,1611,13437
+random_closures,3,ai,4,Burj Khalifa/ Dubai Mall;EXPO;Emirates Towers;Oud Metha,118953,0,0.0,83.0,19.2,48.0,59,4,2.508,100.0,3399,18.75,7781,ADCB,1539,9337
+random_closures,3,baseline,4,Burj Khalifa/ Dubai Mall;EXPO;Emirates Towers;Oud Metha,118953,0,0.0,78.0,18.1,34.7,89,4,6.328,99.6,4717,18.75,22688,World Trade Centre,3513,27225
+random_closures,4,ai,4,Al Jadaf;Al Nahda;Burj Khalifa/ Dubai Mall;Oud Metha,120770,0,0.0,96.2,16.0,31.0,75,5,3.071,100.0,3397,18.75,9477,Stadium,1467,11373
+random_closures,4,baseline,4,Al Jadaf;Al Nahda;Burj Khalifa/ Dubai Mall;Oud Metha,120770,0,0.0,69.8,16.0,31.2,102,3,3.92,47.9,4484,18.75,17446,Stadium,2068,20936
+random_closures,5,ai,4,Al Rigga;Baniyas Square;First Abu Dhabi Bank;Noor Bank,110875,0,0.0,100.0,16.3,32.0,30,3,1.948,100.0,2645,8.75,3841,BurJuman,1947,4609
+random_closures,5,baseline,4,Al Rigga;Baniyas Square;First Abu Dhabi Bank;Noor Bank,110875,0,0.0,74.8,18.4,40.2,45,2,4.266,100.0,4583,8.75,15632,Union,4583,18758
+random_closures,6,ai,4,Al Jadaf;Baniyas Square;Burj Khalifa/ Dubai Mall;Union,113343,0,0.0,100.0,13.3,27.3,63,4,2.447,100.0,1798,18.75,4202,Financial Centre,932,5043
+random_closures,6,baseline,4,Al Jadaf;Baniyas Square;Burj Khalifa/ Dubai Mall;Union,113343,0,0.0,100.0,13.8,25.9,92,4,3.684,75.4,3156,18.75,11350,Financial Centre,1729,13620
+random_closures,7,ai,4,Creek;Emirates Towers;Mall of the Emirates;Rashidiya,78978,0,0.0,100.0,19.4,47.5,72,6,3.079,100.0,2285,18.75,5500,Emirates,901,6600
+random_closures,7,baseline,4,Creek;Emirates Towers;Mall of the Emirates;Rashidiya,78978,0,0.0,73.5,16.4,39.8,122,6,3.783,92.9,3473,18.75,12153,First Abu Dhabi Bank,1474,14583
+random_closures,8,ai,4,Al Ghubaiba;Al Qusais;Noor Bank;Union,145185,0,0.0,94.1,20.4,39.7,54,4,2.051,100.0,3336,18.75,6887,BurJuman,2160,8264
+random_closures,8,baseline,4,Al Ghubaiba;Al Qusais;Noor Bank;Union,145185,0,0.0,62.7,18.6,37.6,68,5,2.794,54.5,4012,18.75,9722,BurJuman,2270,11666
+random_closures,9,ai,4,Airport Terminal 3;Danube;Gold Souq;Nakheel,85880,0,0.0,75.7,20.7,51.2,46,3,3.293,100.0,1426,8.75,3726,BurJuman,877,4471
+random_closures,9,baseline,4,Airport Terminal 3;Danube;Gold Souq;Nakheel,85880,0,0.0,57.0,14.6,30.1,110,3,24.945,32.3,2271,18.75,15722,Energy,1165,18787
+random_closures,10,ai,4,Al Jafiliya;Al Qiyadah;Salah Al Din;Union,207932,0,0.0,93.2,31.7,60.2,72,3,3.321,100.0,3894,18.75,12097,Union,2740,14517
+random_closures,10,baseline,4,Al Jafiliya;Al Qiyadah;Salah Al Din;Union,207932,0,0.0,38.9,34.4,75.1,78,2,11.07,100.0,7208,18.75,52043,World Trade Centre,6640,62253
+random_closures,11,ai,4,Al Jafiliya;Burj Khalifa/ Dubai Mall;Dubai Airport Free Zone;The Gardens,147072,542,0.37,85.3,22.4,64.0,140,6,12.835,100.0,4248,18.75,13446,BurJuman,1120,16117
+random_closures,11,baseline,4,Al Jafiliya;Burj Khalifa/ Dubai Mall;Dubai Airport Free Zone;The Gardens,147072,0,0.0,57.2,31.4,73.2,189,4,12.835,38.5,8009,18.75,41979,ADCB,4023,50356
+random_closures,12,ai,4,Baniyas Square;Emirates;First Abu Dhabi Bank;GGICO,110466,0,0.0,90.3,16.8,35.6,29,3,2.017,100.0,1548,18.75,3947,Al Rigga,1427,4737
+random_closures,12,baseline,4,Baniyas Square;Emirates;First Abu Dhabi Bank;GGICO,110466,0,0.0,51.4,23.0,44.1,72,3,4.455,81.2,4686,18.75,22864,Deira City Centre,3987,27437
+random_closures,13,ai,4,Creek;Dubai Investment Park;First Abu Dhabi Bank;Nakheel,121360,6395,5.27,78.2,30.9,80.9,50,5,1.701,100.0,1373,8.75,3212,Business Bay,988,3854
+random_closures,13,baseline,4,Creek;Dubai Investment Park;First Abu Dhabi Bank;Nakheel,121360,0,0.0,18.5,23.7,36.6,131,3,32.033,44.3,4942,18.75,31783,Noor Bank,3533,38049
+random_closures,14,ai,4,Al Jadaf;Creek;Jumeirah Golf Estates;Noor Bank,50605,0,0.0,89.9,27.8,48.1,28,2,2.728,100.0,597,18.75,1886,The Gardens,597,2263
+random_closures,14,baseline,4,Al Jadaf;Creek;Jumeirah Golf Estates;Noor Bank,50605,0,0.0,23.3,29.5,53.6,91,3,5.176,80.2,1368,18.75,5851,Al Furjan,765,7021
+random_closures,15,ai,4,Baniyas Square;Energy;Mashreq;Rashidiya,77211,0,0.0,98.4,20.3,39.0,44,3,2.979,100.0,1407,18.75,3316,Emirates,858,3980
+random_closures,15,baseline,4,Baniyas Square;Energy;Mashreq;Rashidiya,77211,0,0.0,54.9,18.6,32.6,80,4,3.783,88.8,2099,18.75,6006,Emirates,1206,7207
+random_closures,16,ai,4,DAMAC Properties;DMCC;Mall of the Emirates;UAE Exchange,135985,5147,3.79,100.0,32.2,48.0,98,4,4.208,100.0,3744,18.75,13806,First Abu Dhabi Bank,1997,16568
+random_closures,16,baseline,4,DAMAC Properties;DMCC;Mall of the Emirates;UAE Exchange,135985,0,0.0,46.0,48.8,86.6,191,4,14.986,74.7,7258,18.75,49995,Nakheel,3626,59818
+random_closures,17,ai,4,Discovery Gardens;Dubai Internet City;Salah Al Din;Stadium,170317,0,0.0,72.3,28.0,47.5,84,4,3.55,100.0,4997,18.75,15322,Union,3579,18386
+random_closures,17,baseline,4,Discovery Gardens;Dubai Internet City;Salah Al Din;Stadium,170317,0,0.0,32.7,26.3,40.4,127,3,5.421,100.0,8302,18.75,41771,Union,6204,50125
+random_closures,18,ai,4,Al Rigga;Burj Khalifa/ Dubai Mall;DMCC;Mashreq,279241,0,0.0,55.6,30.6,51.8,131,6,3.42,100.0,5441,18.75,15447,Emirates Towers,1966,18536
+random_closures,18,baseline,4,Al Rigga;Burj Khalifa/ Dubai Mall;DMCC;Mashreq,279241,0,0.0,15.5,35.3,61.0,197,4,12.025,44.9,10221,18.75,59100,Financial Centre,4633,70877
+random_closures,19,ai,4,Al Qusais;Business Bay;Salah Al Din;Stadium,167180,0,0.0,84.3,30.1,58.3,113,7,3.441,98.9,4183,18.75,12597,Union,2688,15116
+random_closures,19,baseline,4,Al Qusais;Business Bay;Salah Al Din;Stadium,167180,0,0.0,35.6,36.9,63.9,85,3,7.847,95.2,8579,18.75,53333,Union,7738,63999
+random_closures,20,ai,4,DMCC;GGICO;The Gardens;Union,163970,0,0.0,98.6,23.5,55.0,82,5,14.287,100.0,5395,18.75,16927,BurJuman,4160,20313
+random_closures,20,baseline,4,DMCC;GGICO;The Gardens;Union,163970,0,0.0,52.9,18.5,35.6,119,5,14.287,52.0,6953,18.75,24514,BurJuman,4050,29417
+random_closures,21,ai,4,Al Qusais;DMCC;EXPO;Jumeirah Golf Estates,60439,0,0.0,84.1,24.4,48.3,106,6,3.057,100.0,2357,18.75,6144,DAMAC Properties,1101,7372
+random_closures,21,baseline,4,Al Qusais;DMCC;EXPO;Jumeirah Golf Estates,60439,0,0.0,58.9,33.3,60.6,111,3,7.257,86.0,3630,18.75,15757,DAMAC Properties,1524,18908
+random_closures,22,ai,4,Al Ghubaiba;Business Bay;Dubai Investment Park;GGICO,139722,0,0.0,81.4,24.1,56.6,115,6,3.933,100.0,2477,18.75,5926,Al Rigga,910,7112
+random_closures,22,baseline,4,Al Ghubaiba;Business Bay;Dubai Investment Park;GGICO,139722,0,0.0,57.8,16.2,34.1,119,5,32.033,21.6,3536,18.75,17233,Deira City Centre,1452,20589
+random_closures,23,ai,4,DMCC;Deira City Centre;Dubai Internet City;Union,196890,0,0.0,100.0,24.3,48.3,121,6,4.049,100.0,7149,18.75,24395,Mall of the Emirates,3651,29274
+random_closures,23,baseline,4,DMCC;Deira City Centre;Dubai Internet City;Union,196890,0,0.0,68.1,40.3,71.8,180,6,11.238,59.8,9813,18.75,57172,Mashreq,5824,68427
+random_closures,24,ai,4,Abu Baker Al Siddique;Al Ras;BurJuman;Union,270424,0,0.0,85.2,30.9,48.9,209,6,5.622,100.0,11873,18.75,54462,Emirates Towers,3754,65354
+random_closures,24,baseline,4,Abu Baker Al Siddique;Al Ras;BurJuman;Union,270424,0,0.0,43.3,44.3,70.7,140,3,13.449,98.4,16257,18.75,116662,ADCB,12700,139453
+random_closures,25,ai,4,Abu Baker Al Siddique;Al Qiyadah;Creek;UAE Exchange,115613,0,0.0,92.5,17.0,24.2,65,3,3.386,100.0,3787,18.75,13407,Union,3348,16089
+random_closures,25,baseline,4,Abu Baker Al Siddique;Al Qiyadah;Creek;UAE Exchange,115613,0,0.0,21.4,27.6,47.3,105,3,7.457,23.4,5439,18.75,34493,Salah Al Din,4840,41391
+random_closures,26,ai,4,Al Nahda;Dubai Internet City;EXPO;First Abu Dhabi Bank,140477,1057,0.75,89.4,31.4,70.0,77,4,3.029,100.0,4388,18.75,12790,Business Bay,2163,15348
+random_closures,26,baseline,4,Al Nahda;Dubai Internet City;EXPO;First Abu Dhabi Bank,140477,0,0.0,21.5,31.2,50.3,169,4,7.078,78.3,8283,18.75,48984,Noor Bank,5295,58781
+random_closures,27,ai,4,Deira City Centre;Dubai Airport Free Zone;EXPO;Energy,150481,0,0.0,73.7,18.1,35.0,79,5,2.421,100.0,2467,8.75,5908,BurJuman,1129,7089
+random_closures,27,baseline,4,Deira City Centre;Dubai Airport Free Zone;EXPO;Energy,150481,0,0.0,32.0,19.4,35.8,111,4,6.252,35.8,5677,18.75,28828,Al Rigga,3185,34594
+random_closures,28,ai,4,Abu Baker Al Siddique;Energy;First Abu Dhabi Bank;GGICO,72177,0,0.0,95.5,21.6,46.1,21,3,1.516,100.0,802,8.75,831,Al Rigga,724,997
+random_closures,28,baseline,4,Abu Baker Al Siddique;Energy;First Abu Dhabi Bank;GGICO,72177,0,0.0,68.6,20.7,41.5,45,4,2.349,43.3,1927,8.75,3951,Deira City Centre,1556,4741
+random_closures,29,ai,4,Al Fahidi;Baniyas Square;DMCC;Jumeirah Golf Estates,186449,0,0.0,86.8,17.3,56.4,93,6,2.598,100.0,4121,18.75,9289,BurJuman,2167,11147
+random_closures,29,baseline,4,Al Fahidi;Baniyas Square;DMCC;Jumeirah Golf Estates,186449,0,0.0,66.3,12.9,43.5,140,5,5.176,100.0,6245,18.75,18938,Union,2119,22726

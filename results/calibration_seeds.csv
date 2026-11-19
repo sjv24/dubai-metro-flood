@@ -1,0 +1,31 @@
+seed,closed,n_closed,true_positive,precision,recall,missed,false_alarms
+0,First Abu Dhabi Bank;Mashreq;Noor Bank,3,3,1.0,0.75,Energy,
+1,First Abu Dhabi Bank;Mashreq;Noor Bank,3,3,1.0,0.75,Energy,
+2,First Abu Dhabi Bank;Mashreq;Noor Bank,3,3,1.0,0.75,Energy,
+3,First Abu Dhabi Bank;Mashreq;Noor Bank,3,3,1.0,0.75,Energy,
+4,First Abu Dhabi Bank;Mashreq;Noor Bank,3,3,1.0,0.75,Energy,
+5,First Abu Dhabi Bank;Mashreq;Noor Bank,3,3,1.0,0.75,Energy,
+6,First Abu Dhabi Bank;Mashreq;Noor Bank,3,3,1.0,0.75,Energy,
+7,First Abu Dhabi Bank;Mashreq;Noor Bank,3,3,1.0,0.75,Energy,
+8,First Abu Dhabi Bank;Mashreq;Noor Bank,3,3,1.0,0.75,Energy,
+9,First Abu Dhabi Bank;Mashreq;Noor Bank,3,3,1.0,0.75,Energy,
+10,Dubai Internet City;First Abu Dhabi Bank;Mashreq;Noor Bank,4,3,0.75,0.75,Energy,Dubai Internet City
+11,First Abu Dhabi Bank;Mashreq;Noor Bank,3,3,1.0,0.75,Energy,
+12,First Abu Dhabi Bank;Mashreq;Noor Bank,3,3,1.0,0.75,Energy,
+13,Dubai Internet City;First Abu Dhabi Bank;Mashreq;Noor Bank,4,3,0.75,0.75,Energy,Dubai Internet City
+14,First Abu Dhabi Bank;Noor Bank,2,2,1.0,0.5,Energy;Mashreq,
+15,First Abu Dhabi Bank;Mashreq;Noor Bank,3,3,1.0,0.75,Energy,
+16,First Abu Dhabi Bank;Mashreq;Noor Bank,3,3,1.0,0.75,Energy,
+17,Dubai Internet City;First Abu Dhabi Bank;Mashreq;Noor Bank,4,3,0.75,0.75,Energy,Dubai Internet City
+18,First Abu Dhabi Bank;Mashreq;Noor Bank,3,3,1.0,0.75,Energy,
+19,First Abu Dhabi Bank;Mashreq;Noor Bank,3,3,1.0,0.75,Energy,
+20,First Abu Dhabi Bank;Mashreq;Noor Bank,3,3,1.0,0.75,Energy,
+21,Dubai Internet City;First Abu Dhabi Bank;Mashreq;Noor Bank,4,3,0.75,0.75,Energy,Dubai Internet City
+22,First Abu Dhabi Bank;Mashreq;Noor Bank,3,3,1.0,0.75,Energy,
+23,First Abu Dhabi Bank;Mashreq;Noor Bank,3,3,1.0,0.75,Energy,
+24,First Abu Dhabi Bank;Mashreq;Noor Bank,3,3,1.0,0.75,Energy,
+25,First Abu Dhabi Bank;Mashreq;Noor Bank,3,3,1.0,0.75,Energy,
+26,First Abu Dhabi Bank;Mashreq;Noor Bank,3,3,1.0,0.75,Energy,
+27,First Abu Dhabi Bank;Mashreq;Noor Bank,3,3,1.0,0.75,Energy,
+28,First Abu Dhabi Bank;Mashreq;Noor Bank,3,3,1.0,0.75,Energy,
+29,Dubai Internet City;First Abu Dhabi Bank;Mashreq;Noor Bank,4,3,0.75,0.75,Energy,Dubai Internet City

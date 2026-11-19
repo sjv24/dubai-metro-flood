@@ -1,0 +1,11 @@
+measure,algorithm,mean,std,median
+Nodes expanded,A*,39.88,27.983,31.5
+Nodes expanded,Dijkstra,54.595,28.018,57.0
+Queue pushes,A*,52.33,32.522,43.5
+Queue pushes,Dijkstra,72.395,33.821,79.0
+"Runtime (ms, best of 5)",A*,0.123,0.085,0.101
+"Runtime (ms, best of 5)",Dijkstra,0.082,0.049,0.076
+A* expansion saving vs Dijkstra (%),A*,30.0,20.2,31.5
+Trips with identical optimal cost (A* = Dijkstra = networkx),both,200.0,,
+Trips where A* expanded fewer or equal nodes,A*,200.0,,
+Graph size (nodes / directed edges),-,105.0,320.0,

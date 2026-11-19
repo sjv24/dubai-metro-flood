@@ -1,0 +1,21 @@
+scenario,method,fitness_mean,fitness_std,covered_mean,covered_std,minutes_to_hub_mean,minutes_to_hub_std,n
+april_2024_replay,ga,1.4102,0.0136,0.9873,0.0,4.4838,0.1341,30
+april_2024_replay,greedy,1.4093,0.0124,0.9765,0.0411,4.5392,0.1997,30
+april_2024_replay,random,0.5948,0.232,0.2899,0.2487,18.5776,6.0659,30
+april_2024_replay,GA >= greedy (seeds),27.0,,,,,,30
+april_2024_replay,GA > greedy (seeds),7.0,,,,,,30
+extreme_storm,ga,1.0447,0.0706,0.4604,0.1326,12.5129,2.6008,30
+extreme_storm,greedy,1.0391,0.0743,0.4556,0.1229,12.6424,2.6835,30
+extreme_storm,random,0.2975,0.1564,0.1324,0.1248,26.7899,6.5505,30
+extreme_storm,GA >= greedy (seeds),26.0,,,,,,30
+extreme_storm,GA > greedy (seeds),16.0,,,,,,30
+interchange_failure,ga,1.4737,0.0059,1.0,0.0,2.6146,0.6885,30
+interchange_failure,greedy,1.4732,0.0064,1.0,0.0,2.6146,0.6885,30
+interchange_failure,random,1.1541,0.158,0.5509,0.3442,9.4243,3.1688,30
+interchange_failure,GA >= greedy (seeds),28.0,,,,,,30
+interchange_failure,GA > greedy (seeds),4.0,,,,,,30
+random_closures,ga,1.336,0.0664,0.8741,0.1138,5.3044,1.9132,30
+random_closures,greedy,1.3204,0.0696,0.8327,0.1449,5.8388,2.1678,30
+random_closures,random,0.6917,0.2509,0.2953,0.233,18.6055,6.1909,30
+random_closures,GA >= greedy (seeds),28.0,,,,,,30
+random_closures,GA > greedy (seeds),24.0,,,,,,30

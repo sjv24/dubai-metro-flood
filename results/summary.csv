@@ -1,0 +1,131 @@
+scenario,policy,metric,label,mean,std,n
+april_2024_replay,ai,gave_up,People who gave up on the metro,8239.233,3020.671,30
+april_2024_replay,ai,waiting_person_hours,Hours spent queuing,6866.067,2517.234,30
+april_2024_replay,ai,peak_waiting,Peak people waiting (all stations),2990.933,477.855,30
+april_2024_replay,ai,worst_station_waiting,Peak queue at the worst station,2180.967,607.816,30
+april_2024_replay,ai,peak_ratio,Peak crowding ratio,2.547,0.434,30
+april_2024_replay,ai,avg_extra_min,Average extra trip time (min),38.62,0.761,30
+april_2024_replay,ai,p95_extra_min,95th percentile extra trip time (min),69.39,3.025,30
+april_2024_replay,ai,unserved_pct,Unserved trips (%),1.012,0.643,30
+april_2024_replay,ai,covered_pct,Stranded passengers within 10 min of relief (%),98.847,0.057,30
+april_2024_replay,ai,staffed_critical_pct,Critical stations staffed (%),100.0,0.0,30
+april_2024_replay,ai,max_overloaded_stations,Max stations over capacity at once,2.5,0.509,30
+april_2024_replay,ai,overloaded_station_steps,Station-steps over capacity,33.467,4.637,30
+april_2024_replay,ai,displaced_total,Stranded passengers (same for both),75527.067,2810.98,30
+april_2024_replay,baseline,gave_up,People who gave up on the metro,20019.967,1449.479,30
+april_2024_replay,baseline,waiting_person_hours,Hours spent queuing,16683.267,1207.875,30
+april_2024_replay,baseline,peak_waiting,Peak people waiting (all stations),4747.6,179.593,30
+april_2024_replay,baseline,worst_station_waiting,Peak queue at the worst station,4413.133,227.18,30
+april_2024_replay,baseline,peak_ratio,Peak crowding ratio,4.129,0.161,30
+april_2024_replay,baseline,avg_extra_min,Average extra trip time (min),36.137,0.844,30
+april_2024_replay,baseline,p95_extra_min,95th percentile extra trip time (min),51.483,0.091,30
+april_2024_replay,baseline,unserved_pct,Unserved trips (%),0.0,0.0,30
+april_2024_replay,baseline,covered_pct,Stranded passengers within 10 min of relief (%),2.42,0.727,30
+april_2024_replay,baseline,staffed_critical_pct,Critical stations staffed (%),80.833,2.234,30
+april_2024_replay,baseline,max_overloaded_stations,Max stations over capacity at once,2.5,0.509,30
+april_2024_replay,baseline,overloaded_station_steps,Station-steps over capacity,51.733,4.548,30
+april_2024_replay,baseline,displaced_total,Stranded passengers (same for both),75527.067,2810.98,30
+extreme_storm,ai,gave_up,People who gave up on the metro,46893.967,13630.73,30
+extreme_storm,ai,waiting_person_hours,Hours spent queuing,39082.667,11364.669,30
+extreme_storm,ai,peak_waiting,Peak people waiting (all stations),10830.433,2649.124,30
+extreme_storm,ai,worst_station_waiting,Peak queue at the worst station,5711.933,996.706,30
+extreme_storm,ai,peak_ratio,Peak crowding ratio,5.81,1.479,30
+extreme_storm,ai,avg_extra_min,Average extra trip time (min),45.56,6.192,30
+extreme_storm,ai,p95_extra_min,95th percentile extra trip time (min),76.4,8.472,30
+extreme_storm,ai,unserved_pct,Unserved trips (%),4.14,2.152,30
+extreme_storm,ai,covered_pct,Stranded passengers within 10 min of relief (%),52.793,10.626,30
+extreme_storm,ai,staffed_critical_pct,Critical stations staffed (%),99.89,0.277,30
+extreme_storm,ai,max_overloaded_stations,Max stations over capacity at once,5.233,1.478,30
+extreme_storm,ai,overloaded_station_steps,Station-steps over capacity,104.067,27.69,30
+extreme_storm,ai,displaced_total,Stranded passengers (same for both),176577.167,33582.526,30
+extreme_storm,baseline,gave_up,People who gave up on the metro,90998.5,29467.004,30
+extreme_storm,baseline,waiting_person_hours,Hours spent queuing,76373.133,25000.901,30
+extreme_storm,baseline,peak_waiting,Peak people waiting (all stations),15217.6,4328.815,30
+extreme_storm,baseline,worst_station_waiting,Peak queue at the worst station,13609.5,4058.919,30
+extreme_storm,baseline,peak_ratio,Peak crowding ratio,17.282,8.599,30
+extreme_storm,baseline,avg_extra_min,Average extra trip time (min),49.587,11.149,30
+extreme_storm,baseline,p95_extra_min,95th percentile extra trip time (min),93.583,20.693,30
+extreme_storm,baseline,unserved_pct,Unserved trips (%),1.28,1.306,30
+extreme_storm,baseline,covered_pct,Stranded passengers within 10 min of relief (%),10.147,5.405,30
+extreme_storm,baseline,staffed_critical_pct,Critical stations staffed (%),76.637,15.99,30
+extreme_storm,baseline,max_overloaded_stations,Max stations over capacity at once,3.833,0.95,30
+extreme_storm,baseline,overloaded_station_steps,Station-steps over capacity,90.2,19.295,30
+extreme_storm,baseline,displaced_total,Stranded passengers (same for both),176577.167,33582.526,30
+interchange_failure,ai,gave_up,People who gave up on the metro,11366.167,2529.337,30
+interchange_failure,ai,waiting_person_hours,Hours spent queuing,9471.9,2107.896,30
+interchange_failure,ai,peak_waiting,Peak people waiting (all stations),2879.633,326.71,30
+interchange_failure,ai,worst_station_waiting,Peak queue at the worst station,1833.367,374.572,30
+interchange_failure,ai,peak_ratio,Peak crowding ratio,2.789,0.377,30
+interchange_failure,ai,avg_extra_min,Average extra trip time (min),10.71,0.94,30
+interchange_failure,ai,p95_extra_min,95th percentile extra trip time (min),18.953,2.083,30
+interchange_failure,ai,unserved_pct,Unserved trips (%),0.0,0.0,30
+interchange_failure,ai,covered_pct,Stranded passengers within 10 min of relief (%),100.0,0.0,30
+interchange_failure,ai,staffed_critical_pct,Critical stations staffed (%),100.0,0.0,30
+interchange_failure,ai,max_overloaded_stations,Max stations over capacity at once,2.8,0.61,30
+interchange_failure,ai,overloaded_station_steps,Station-steps over capacity,53.9,7.27,30
+interchange_failure,ai,displaced_total,Stranded passengers (same for both),101500.0,0.0,30
+interchange_failure,baseline,gave_up,People who gave up on the metro,16692.533,1784.747,30
+interchange_failure,baseline,waiting_person_hours,Hours spent queuing,13910.4,1487.349,30
+interchange_failure,baseline,peak_waiting,Peak people waiting (all stations),3562.733,210.663,30
+interchange_failure,baseline,worst_station_waiting,Peak queue at the worst station,2311.533,296.947,30
+interchange_failure,baseline,peak_ratio,Peak crowding ratio,3.266,0.291,30
+interchange_failure,baseline,avg_extra_min,Average extra trip time (min),10.793,0.611,30
+interchange_failure,baseline,p95_extra_min,95th percentile extra trip time (min),20.793,1.517,30
+interchange_failure,baseline,unserved_pct,Unserved trips (%),0.0,0.0,30
+interchange_failure,baseline,covered_pct,Stranded passengers within 10 min of relief (%),58.6,0.0,30
+interchange_failure,baseline,staffed_critical_pct,Critical stations staffed (%),100.0,0.0,30
+interchange_failure,baseline,max_overloaded_stations,Max stations over capacity at once,2.0,0.0,30
+interchange_failure,baseline,overloaded_station_steps,Station-steps over capacity,57.1,4.188,30
+interchange_failure,baseline,displaced_total,Stranded passengers (same for both),101500.0,0.0,30
+moderate_storm,ai,gave_up,People who gave up on the metro,0.0,0.0,30
+moderate_storm,ai,waiting_person_hours,Hours spent queuing,0.0,0.0,30
+moderate_storm,ai,peak_waiting,Peak people waiting (all stations),0.0,0.0,30
+moderate_storm,ai,worst_station_waiting,Peak queue at the worst station,0.0,0.0,30
+moderate_storm,ai,peak_ratio,Peak crowding ratio,0.769,0.0,30
+moderate_storm,ai,avg_extra_min,Average extra trip time (min),0.0,0.0,30
+moderate_storm,ai,p95_extra_min,95th percentile extra trip time (min),0.0,0.0,30
+moderate_storm,ai,unserved_pct,Unserved trips (%),0.0,0.0,30
+moderate_storm,ai,covered_pct,Stranded passengers within 10 min of relief (%),0.0,0.0,30
+moderate_storm,ai,staffed_critical_pct,Critical stations staffed (%),,,0
+moderate_storm,ai,max_overloaded_stations,Max stations over capacity at once,0.0,0.0,30
+moderate_storm,ai,overloaded_station_steps,Station-steps over capacity,0.0,0.0,30
+moderate_storm,ai,displaced_total,Stranded passengers (same for both),0.0,0.0,30
+moderate_storm,baseline,gave_up,People who gave up on the metro,0.0,0.0,30
+moderate_storm,baseline,waiting_person_hours,Hours spent queuing,0.0,0.0,30
+moderate_storm,baseline,peak_waiting,Peak people waiting (all stations),0.0,0.0,30
+moderate_storm,baseline,worst_station_waiting,Peak queue at the worst station,0.0,0.0,30
+moderate_storm,baseline,peak_ratio,Peak crowding ratio,0.769,0.0,30
+moderate_storm,baseline,avg_extra_min,Average extra trip time (min),0.0,0.0,30
+moderate_storm,baseline,p95_extra_min,95th percentile extra trip time (min),0.0,0.0,30
+moderate_storm,baseline,unserved_pct,Unserved trips (%),0.0,0.0,30
+moderate_storm,baseline,covered_pct,Stranded passengers within 10 min of relief (%),0.0,0.0,30
+moderate_storm,baseline,staffed_critical_pct,Critical stations staffed (%),,,0
+moderate_storm,baseline,max_overloaded_stations,Max stations over capacity at once,0.0,0.0,30
+moderate_storm,baseline,overloaded_station_steps,Station-steps over capacity,0.0,0.0,30
+moderate_storm,baseline,displaced_total,Stranded passengers (same for both),0.0,0.0,30
+random_closures,ai,gave_up,People who gave up on the metro,12398.8,11933.35,30
+random_closures,ai,waiting_person_hours,Hours spent queuing,10332.833,9944.662,30
+random_closures,ai,peak_waiting,Peak people waiting (all stations),3400.433,2208.072,30
+random_closures,ai,worst_station_waiting,Peak queue at the worst station,1852.367,1039.41,30
+random_closures,ai,peak_ratio,Peak crowding ratio,4.035,3.262,30
+random_closures,ai,avg_extra_min,Average extra trip time (min),23.36,5.731,30
+random_closures,ai,p95_extra_min,95th percentile extra trip time (min),48.327,12.883,30
+random_closures,ai,unserved_pct,Unserved trips (%),0.339,1.165,30
+random_closures,ai,covered_pct,Stranded passengers within 10 min of relief (%),88.07,10.556,30
+random_closures,ai,staffed_critical_pct,Critical stations staffed (%),99.963,0.201,30
+random_closures,ai,max_overloaded_stations,Max stations over capacity at once,4.4,1.354,30
+random_closures,ai,overloaded_station_steps,Station-steps over capacity,78.5,39.418,30
+random_closures,ai,displaced_total,Stranded passengers (same for both),136426.3,54414.604,30
+random_closures,baseline,gave_up,People who gave up on the metro,35381.1,28040.251,30
+random_closures,baseline,waiting_person_hours,Hours spent queuing,29523.7,23439.994,30
+random_closures,baseline,peak_waiting,Peak people waiting (all stations),5644.667,3103.05,30
+random_closures,baseline,worst_station_waiting,Peak queue at the worst station,3659.2,2486.824,30
+random_closures,baseline,peak_ratio,Peak crowding ratio,9.584,7.839,30
+random_closures,baseline,avg_extra_min,Average extra trip time (min),24.977,9.7,30
+random_closures,baseline,p95_extra_min,95th percentile extra trip time (min),47.143,16.164,30
+random_closures,baseline,unserved_pct,Unserved trips (%),0.0,0.0,30
+random_closures,baseline,covered_pct,Stranded passengers within 10 min of relief (%),52.77,21.731,30
+random_closures,baseline,staffed_critical_pct,Critical stations staffed (%),67.27,26.123,30
+random_closures,baseline,max_overloaded_stations,Max stations over capacity at once,3.767,1.006,30
+random_closures,baseline,overloaded_station_steps,Station-steps over capacity,115.033,41.73,30
+random_closures,baseline,displaced_total,Stranded passengers (same for both),136426.3,54414.604,30

@@ -1,0 +1,121 @@
+scenario,w_overload,seed,hubs_at_overloaded,overloaded_candidates,covered_within_T,covered_pct_ai,hubs
+april_2024_replay,0.3,0,0,2,0.9873287450955169,98.9,DAMAC Properties;Danube Metro Station Landside;Emirates Towers;Mall of the Emirates Bus Station 1;Noor Bank MS Landside
+april_2024_replay,0.3,1,0,2,0.9873287450955169,98.9,Al Safa Metro Bus Stop Landside;DAMAC Properties;Danube Metro Bus Stop Landside;Emirates Towers;Mall of the Emirates Bus Station 1
+april_2024_replay,0.3,2,0,3,0.9873287450955169,98.9,DAMAC Properties;Danube Metro Bus Stop Landside;Emirates Towers;Mall of the Emirates Metro Station 1;Noor Bank MS Landside
+april_2024_replay,0.3,3,0,3,0.9873287450955169,98.9,DAMAC Properties;Danube Metro Station Landside;Emirates Towers;Mall of the Emirates Bus Station 1;Noor Bank MS Landside
+april_2024_replay,0.3,4,0,2,0.9873287450955169,98.9,DAMAC Properties;Danube Metro Station Landside;Emirates Towers;Mall of the Emirates Bus Station 1;Noor Bank MS Landside
+april_2024_replay,0.3,5,0,3,0.9873287450955169,98.8,DAMAC Properties;Danube Metro Bus Stop Landside;Emirates Towers;Mall of the Emirates Bus Station 1;Noor Bank MS Landside
+april_2024_replay,0.3,6,0,3,0.9873287450955169,98.8,Al Safa Metro Bus Stop Landside;DAMAC Properties;Danube Metro Station Landside;Mall of the Emirates Bus Station 1;World Trade Centre
+april_2024_replay,0.3,7,0,3,0.9873287450955169,98.8,Al Safa Metro Bus Stop Landside;DAMAC Properties;Danube Metro Station Landside;Emirates Towers;Mall of the Emirates Bus Station 1
+april_2024_replay,0.3,8,0,2,0.9873287450955169,98.9,Al Safa Metro Bus Stop Landside;DAMAC Properties;Danube Metro Station Landside;Emirates Towers;Mall of the Emirates Bus Station 1
+april_2024_replay,0.3,9,0,2,0.9873287450955169,98.8,Al Safa Metro Bus Stop Landside;DAMAC Properties;Danube Metro Station Landside;Emirates Towers;Mall of the Emirates Bus Station 1
+april_2024_replay,0.3,10,0,2,0.9873287450955169,98.9,DAMAC Properties;Danube Metro Bus Stop Landside;Emirates Towers;Mall of the Emirates Metro Station 1;Noor Bank MS Landside
+april_2024_replay,0.3,11,0,3,0.9873287450955169,98.8,DAMAC Properties;Danube Metro Bus Stop Landside;Emirates Towers;Mall of the Emirates Bus Station 1;Noor Bank MS Landside
+april_2024_replay,0.3,12,0,3,0.9873287450955169,98.9,Al Safa Metro Bus Stop Landside;DAMAC Properties;Danube Metro Bus Stop Landside;Emirates Towers;Mall of the Emirates Metro Station 1
+april_2024_replay,0.3,13,0,3,0.9873287450955169,98.9,DAMAC Properties;Danube Metro Station Landside;Emirates Towers;Mall of the Emirates Bus Station 1;Noor Bank MS Landside
+april_2024_replay,0.3,14,0,2,0.9873287450955169,98.8,Al Safa Metro Bus Stop Landside;DAMAC Properties;Danube Metro Station Landside;Emirates Towers;Mall of the Emirates Metro Station 1
+april_2024_replay,0.3,15,0,2,0.9873287450955169,98.8,Al Safa Metro Bus Stop Landside;DAMAC Properties;Danube Metro Station Landside;Emirates Towers;Mall of the Emirates Bus Station 1
+april_2024_replay,0.3,16,0,3,0.9873287450955169,98.8,DAMAC Properties;Danube Metro Bus Stop Landside;Emirates Towers;Mall of the Emirates Metro Station 1;Noor Bank MS Landside
+april_2024_replay,0.3,17,0,3,0.9873287450955169,98.8,DMCC;Danube Metro Bus Stop Landside;Emirates Towers;Mall of the Emirates Bus Station 1;Noor Bank MS Landside
+april_2024_replay,0.3,18,0,2,0.9873287450955169,98.8,DAMAC Properties;Danube Metro Station Landside;Emirates Towers;Mall of the Emirates Bus Station 1;Noor Bank MS Landside
+april_2024_replay,0.3,19,0,2,0.9873287450955169,98.9,DMCC;Danube Metro Bus Stop Landside;Emirates Towers;Mall of the Emirates Metro Station 1;Noor Bank MS Landside
+april_2024_replay,0.3,20,0,2,0.9873287450955169,98.9,DAMAC Properties;Danube Metro Bus Stop Landside;Financial Centre;Mall of the Emirates Bus Station 1;Noor Bank MS Landside
+april_2024_replay,0.3,21,0,3,0.9873287450955169,98.8,Al Safa Metro Bus Stop Landside;DAMAC Properties;Danube Metro Bus Stop Landside;Emirates Towers;Mall of the Emirates Bus Station 1
+april_2024_replay,0.3,22,0,2,0.9873287450955169,98.9,DAMAC Properties;Danube Metro Bus Stop Landside;Emirates Towers;Mall of the Emirates Metro Station 1;Noor Bank MS Landside
+april_2024_replay,0.3,23,0,3,0.9873287450955169,98.8,DAMAC Properties;Danube Metro Station Landside;Emirates Towers;Mall of the Emirates Metro Station 1;Noor Bank MS Landside
+april_2024_replay,0.3,24,0,3,0.9873287450955169,98.8,DAMAC Properties;Danube Metro Bus Stop Landside;Emirates Towers;Mall of the Emirates Bus Station 1;Noor Bank MS Landside
+april_2024_replay,0.3,25,0,3,0.9873287450955169,98.9,Al Safa Metro Bus Stop Landside;DAMAC Properties;Danube Metro Bus Stop Landside;Emirates Towers;Mall of the Emirates Metro Station 2
+april_2024_replay,0.3,26,0,2,0.9873287450955169,98.7,DAMAC Properties;Danube Metro Station Landside;Emirates Towers;Mall of the Emirates Bus Station 1;Noor Bank MS Landside
+april_2024_replay,0.3,27,0,2,0.9873287450955169,98.9,Al Safa Metro Bus Stop Landside;DAMAC Properties;Danube Metro Station Landside;Emirates Towers;Mall of the Emirates Bus Station 1
+april_2024_replay,0.3,28,0,2,0.9873287450955169,98.8,DAMAC Properties;Danube Metro Station Landside;Emirates Towers;Mall of the Emirates Metro Station 1;Noor Bank MS Landside
+april_2024_replay,0.3,29,0,3,0.9873287450955169,98.9,DAMAC Properties;Danube Metro Bus Stop Landside;Financial Centre;Mall of the Emirates Bus Station 1;Noor Bank Bus Terminus
+april_2024_replay,0.0,0,0,2,0.9873287450955169,98.9,DAMAC Properties;Danube Metro Station Landside;Emirates Towers;Mall of the Emirates Metro Station 1;Noor Bank MS Landside
+april_2024_replay,0.0,1,0,2,0.9873287450955169,98.9,Al Safa Metro Bus Stop Landside;DAMAC Properties;Danube Metro Station Landside;Emirates Towers;Mall of the Emirates Metro Station 1
+april_2024_replay,0.0,2,0,3,0.9873287450955169,98.9,DAMAC Properties;Danube Metro Bus Stop Landside;Emirates Towers;Mall of the Emirates Metro Station 1;Noor Bank MS Landside
+april_2024_replay,0.0,3,0,3,0.9873287450955169,98.9,DAMAC Properties;Danube Metro Bus Stop Landside;Emirates Towers;Mall of the Emirates Metro Station 1;Noor Bank MS Landside
+april_2024_replay,0.0,4,0,2,0.9873287450955169,98.9,DAMAC Properties;Danube Metro Station Landside;Emirates Towers;Mall of the Emirates Bus Station 1;Noor Bank MS Landside
+april_2024_replay,0.0,5,0,3,0.9873287450955169,98.8,DAMAC Properties;Danube Metro Bus Stop Landside;Emirates Towers;Mall of the Emirates Metro Station 1;Noor Bank MS Landside
+april_2024_replay,0.0,6,0,3,0.9873287450955169,98.8,Al Safa Metro Bus Stop Landside;DAMAC Properties;Danube Metro Station Landside;Emirates Towers;Mall of the Emirates Bus Station 1
+april_2024_replay,0.0,7,0,3,0.9873287450955169,98.8,DAMAC Properties;Danube Metro Station Landside;Financial Centre;Mall of the Emirates Bus Station 1;Noor Bank MS Landside
+april_2024_replay,0.0,8,0,2,0.9873287450955169,98.9,Al Safa Metro Bus Stop Landside;DAMAC Properties;Danube Metro Station Landside;Emirates Towers;Mall of the Emirates Bus Station 1
+april_2024_replay,0.0,9,0,2,0.9873287450955169,98.8,Al Safa Metro Bus Stop Landside;DAMAC Properties;Danube Metro Station Landside;Emirates Towers;Mall of the Emirates Metro Station 1
+april_2024_replay,0.0,10,0,2,0.9873287450955169,98.9,DAMAC Properties;Danube Metro Bus Stop Landside;Emirates Towers;Mall of the Emirates Metro Station 1;Noor Bank MS Landside
+april_2024_replay,0.0,11,0,3,0.9873287450955169,98.8,DAMAC Properties;Danube Metro Station Landside;Emirates Towers;Mall of the Emirates Bus Station 1;Noor Bank MS Landside
+april_2024_replay,0.0,12,0,3,0.9873287450955169,98.9,Al Safa Metro Bus Stop Landside;DAMAC Properties;Danube Metro Bus Stop Landside;Emirates Towers;Mall of the Emirates Metro Station 1
+april_2024_replay,0.0,13,0,3,0.9873287450955169,98.9,Al Safa Metro Bus Stop Landside;DAMAC Properties;Danube Metro Bus Stop Landside;Emirates Towers;Mall of the Emirates Bus Station 1
+april_2024_replay,0.0,14,0,2,0.9873287450955169,98.8,Al Safa Metro Bus Stop Landside;DAMAC Properties;Danube Metro Station Landside;Emirates Towers;Mall of the Emirates Bus Station 1
+april_2024_replay,0.0,15,0,2,0.9873287450955169,98.8,Al Safa Metro Bus Stop Landside;DAMAC Properties;Danube Metro Station Landside;Financial Centre;Mall of the Emirates Metro Station 1
+april_2024_replay,0.0,16,0,3,0.9873287450955169,98.8,DAMAC Properties;Danube Metro Station Landside;Emirates Towers;Mall of the Emirates Metro Station 1;Noor Bank MS Landside
+april_2024_replay,0.0,17,0,3,0.9873287450955169,98.8,Al Safa Metro Bus Stop Landside;DMCC;Danube Metro Bus Stop Landside;Emirates Towers;Mall of the Emirates Metro Station 1
+april_2024_replay,0.0,18,0,2,0.9873287450955169,98.8,DAMAC Properties;Danube Metro Bus Stop Landside;Emirates Towers;Mall of the Emirates Metro Station 1;Noor Bank MS Landside
+april_2024_replay,0.0,19,0,2,0.9873287450955169,98.9,DMCC;Danube Metro Bus Stop Landside;Emirates Towers;Mall of the Emirates Bus Station 1;Noor Bank MS Landside
+april_2024_replay,0.0,20,0,2,0.9873287450955169,98.9,Al Safa Metro Bus Stop Landside;DMCC;Danube Metro Station Landside;Financial Centre;Mall of the Emirates Bus Station 1
+april_2024_replay,0.0,21,0,3,0.9873287450955169,98.8,Al Safa Metro Bus Stop Landside;DAMAC Properties;Danube Metro Bus Stop Landside;Emirates Towers;Mall of the Emirates Bus Station 1
+april_2024_replay,0.0,22,0,2,0.9873287450955169,98.9,DAMAC Properties;Danube Metro Bus Stop Landside;Emirates Towers;Mall of the Emirates Bus Station 1;Noor Bank MS Landside
+april_2024_replay,0.0,23,0,3,0.9873287450955169,98.8,DAMAC Properties;Danube Metro Bus Stop Landside;Emirates Towers;Mall of the Emirates Metro Station 1;Noor Bank MS Landside
+april_2024_replay,0.0,24,0,3,0.9873287450955169,98.8,DAMAC Properties;Danube Metro Bus Stop Landside;Emirates Towers;Mall of the Emirates Bus Station 1;Noor Bank MS Landside
+april_2024_replay,0.0,25,0,3,0.9873287450955169,98.9,Al Safa Metro Bus Stop Landside;DAMAC Properties;Danube Metro Bus Stop Landside;Emirates Towers;Mall of the Emirates Bus Station 1
+april_2024_replay,0.0,26,0,2,0.9873287450955169,98.7,DAMAC Properties;Danube Metro Station Landside;Emirates Towers;Mall of the Emirates Metro Station 1;Noor Bank MS Landside
+april_2024_replay,0.0,27,0,2,0.9873287450955169,98.9,DAMAC Properties;Danube Metro Bus Stop Landside;Emirates Towers;Mall of the Emirates Bus Station 2;Noor Bank MS Landside
+april_2024_replay,0.0,28,0,2,0.9873287450955169,98.8,DAMAC Properties;Danube Metro Station Landside;Emirates Towers;Mall of the Emirates Metro Station 1;Noor Bank MS Landside
+april_2024_replay,0.0,29,1,3,0.9873287450955169,98.9,Al Safa Metro Bus Stop Landside;DAMAC Properties;Danube Metro Bus Stop Landside;Emirates Towers;Mall of the Emirates Bus Station 1
+extreme_storm,0.3,0,2,3,0.6229512863800578,64.2,DMCC;Danube Metro Bus Stop Landside;Dubai Mall MS Land Side A;Mall of the Emirates Bus Station 1;Union
+extreme_storm,0.3,1,1,6,0.25213085199849383,39.7,DMCC;Mashreq Metro Station Landside 1;Mazaya Center 1;Oud Metha Road 2 1;Union
+extreme_storm,0.3,2,1,5,0.5241008093497078,60.9,Al Safa Metro Bus Stop Landside;DMCC;Dubai Healthcare City Metro Bus Stop 1;Mashreq Metro Bus Stop Landside 1;Union
+extreme_storm,0.3,3,0,4,0.5534908561344972,56.4,"Al Barsha Heights, Mazoon Hotel & Apartments 1;BurJuman;DMCC Metro Bus Stop Landside;Dubai Mall MS Land Side D;Mall of the Emirates Metro Station 1"
+extreme_storm,0.3,4,0,3,0.3929467310027481,50.3,DMCC Metro Station Landside;Danube Metro Bus Stop Landside;Mashreq Metro Bus Stop Landside 2;Noor Bank MS Landside;Union
+extreme_storm,0.3,5,0,5,0.5241008093497078,59.3,"Al Barsha, Habtoor House 1;Al Quoz, Yusuf Motors 2;DMCC;Dubai Healthcare City Metro station A2;Union"
+extreme_storm,0.3,6,0,4,0.4151064547906714,48.1,Danube Metro Bus Stop Landside;Dubai Mall MS Land Side A;Mashreq Metro Station Landside 1;Sobha Realty Metro Bus Stop Landside;Union
+extreme_storm,0.3,7,1,4,0.3174446496423189,39.2,DMCC;Dubai Mall MS Land Side A;Mall of the Emirates Bus Station 2;New Modern Pharmacy 1;Union
+extreme_storm,0.3,8,0,3,0.5625707163566933,59.4,BurJuman;DAMAC Metro Station Landside;Danube Metro Station Landside;Mashreq Metro Bus Stop Landside 1;Noor Bank MS Landside
+extreme_storm,0.3,9,0,4,0.43405985641139805,48.6,BurJuman;DAMAC Metro Station Landside;Emirates Towers;Mashreq Metro Bus Stop Landside 1;The Gardens
+extreme_storm,0.3,10,0,3,0.663883209546858,70.1,BurJuman;DMCC;Danube Metro Station Landside;Mashreq Metro Bus Stop Landside 1;Noor Bank MS Landside
+extreme_storm,0.3,11,0,4,0.5436151334181462,64.2,Al Safa Metro Bus Stop Landside;DMCC;Dubai Healthcare City Metro station A1;Mashreq Metro Station Landside 1;Union
+extreme_storm,0.3,12,0,5,0.3866385290722756,46.0,Al Rigga;DMCC Metro Station Landside;Emirates Tower MS Seaside;Mall of the Emirates Metro Station 1;The Gardens
+extreme_storm,0.3,13,2,6,0.36974703620451616,44.3,BurJuman;DMCC;Dubai Mall MS Land Side A;Mall of the Emirates Bus Station 1;Oud Metha Road 2-1
+extreme_storm,0.3,14,1,6,0.5500835494684614,57.9,Al Jafiliya MS Seaside;DMCC Metro Station Landside;Dubai Mall MS Land Side A;Mall of the Emirates Bus Station 5;Union
+extreme_storm,0.3,15,0,5,0.2793732962524437,40.8,DMCC Metro Station Landside;Mashreq Metro Bus Stop Landside 2;Noor Bank Bus Terminus;Oud Metha Road 2-1;Union
+extreme_storm,0.3,16,1,6,0.364760140193081,41.1,DMCC;Dubai Mall Metro Bus Stop Landside 1;Mashreq Metro Station Landside 1;Oud Metha Road 2 1;Union
+extreme_storm,0.3,17,0,6,0.48214988972904865,56.3,Al Jafiliya MS Landside;BurJuman;Dubai Mall Metro Bus Stop Landside 2;Ibn Battuta;Mall of the Emirates Metro Station 2
+extreme_storm,0.3,18,0,7,0.5923133168814552,58.0,Al Safa Metro Bus Stop Landside;DAMAC Metro Station Landside;Dubai Healthcare City Metro station A1;Mashreq Metro Bus Stop Landside 2;Union
+extreme_storm,0.3,19,0,4,0.4602829481233845,50.8,Al Jafiliya;Dubai Healthcare City Metro Bus Stop 2;Mall of the Emirates Metro Station 1;Nakheel Metro Station Seaside;The Gardens
+extreme_storm,0.3,20,0,3,0.5673418697272066,63.7,DMCC;Danube Metro Station Landside;Mall of the Emirates Bus Station 1;Union;World Trade Centre
+extreme_storm,0.3,21,1,6,0.25600807738927983,35.5,"BurJuman;DMCC Metro Bus Stop Landside;Mashreq Metro Station Landside 1;Safa, Lufthansa 1;The Gardens"
+extreme_storm,0.3,22,1,4,0.2634050818314972,40.3,DMCC;Dubai Mall MS Land Side A;Dubai Rehabilitation Centre For Disabled;Mashreq Metro Station Landside 1;Union
+extreme_storm,0.3,23,0,5,0.5581444937678097,64.7,DAMAC Metro Station Landside;Dubai Mall MS Land Side A;Mashreq Metro Bus Stop Landside 1;Rashidiya Metro Station Gate 9;Union
+extreme_storm,0.3,24,0,5,0.16798129910106024,29.2,Al Rigga;DMCC Metro Bus Stop Landside;Dubai Mall MS Land Side D;Mashreq Metro Bus Stop Landside 1;Oud Metha Road 2-1
+extreme_storm,0.3,25,1,6,0.4507476805728095,52.4,DMCC;Dubai Mall Metro Bus Stop Landside 2;Dubai Rehabilitation Centre For Disabled;Mashreq Metro Station Landside 1;Union
+extreme_storm,0.3,26,0,5,0.6214488493770052,64.0,Al Safa Metro Bus Stop Landside;DIP Metro Bus Stop 1;DMCC;Mashreq Metro Station Landside 1;Union Metro Station C 2
+extreme_storm,0.3,27,1,6,0.5521637477141349,57.7,BurJuman;Dubai Mall MS Land Side A;Dubai Rehabilitation Centre For Disabled;Jabal Ali;Mashreq Metro Bus Stop Landside 1
+extreme_storm,0.3,28,0,4,0.644143415051193,68.8,Al Safa Metro Bus Stop Landside;Dubai Healthcare City Metro station A1;Dubai Mall MS Land Side A;Jabal Ali;Mashreq Metro Station Landside 1
+extreme_storm,0.3,29,1,6,0.4401683269422513,51.9,BurJuman;DMCC;Danube Metro Bus Stop Landside;Dubai Mall MS Land Side A;Mall of the Emirates Bus Station 1
+extreme_storm,0.0,0,2,3,0.6229512863800578,64.1,DMCC;Danube Metro Bus Stop Landside;Dubai Mall MS Land Side A;Mall of the Emirates Bus Station 1;Union
+extreme_storm,0.0,1,1,6,0.3824380141714494,49.4,Business Bay Metro Station Seaside;DMCC;Mashreq Metro Bus Stop Landside 1;Oud Metha Road 2 1;Union
+extreme_storm,0.0,2,2,5,0.5241008093497078,60.3,Al Safa Metro Bus Stop Landside;BurJuman;DMCC;Dubai Healthcare City Metro Bus Stop 1;Mashreq Metro Bus Stop Landside 2
+extreme_storm,0.0,3,0,4,0.5367227439029426,54.8,"Al Quoz, Yusuf Motors 2;BurJuman;DMCC Metro Station Landside;Dubai Mall Metro Bus Stop Landside 1;Mall of the Emirates Metro Station 1"
+extreme_storm,0.0,4,0,3,0.3929467310027481,50.0,DMCC Metro Station Landside;Danube Metro Bus Stop Landside;Mashreq Metro Bus Stop Landside 2;Noor Bank MS Landside;Union
+extreme_storm,0.0,5,1,5,0.5241008093497078,59.3,"Al Barsha, Habtoor House 1;Al Quoz, Yusuf Motors 2;BurJuman;Creek Metro Bus Stop;DMCC"
+extreme_storm,0.0,6,0,4,0.4151064547906714,48.6,Danube Metro Bus Stop Landside;Dubai Mall MS Land Side A;Mashreq Metro Station Landside 1;Sobha Realty Metro Bus Stop Landside;Union
+extreme_storm,0.0,7,1,4,0.3174446496423189,38.7,DMCC;Dubai Mall MS Land Side A;Mall of the Emirates Bus Station 2;New Modern Pharmacy 1;Union
+extreme_storm,0.0,8,0,3,0.5201718407467648,56.1,BurJuman;DAMAC Metro Station Landside;Danube Metro Station Seaside;Mashreq Metro Bus Stop Landside 1;Noor Bank MS Landside
+extreme_storm,0.0,9,0,4,0.43405985641139805,47.7,BurJuman;DAMAC Metro Station Landside;Financial Centre;Mashreq Metro Bus Stop Landside 1;The Gardens
+extreme_storm,0.0,10,0,3,0.663883209546858,70.1,BurJuman;DMCC Metro Bus Stop Landside;Danube Metro Station Landside;Mashreq Metro Bus Stop Landside 1;Noor Bank MS Landside
+extreme_storm,0.0,11,0,4,0.5436151334181462,64.2,Al Safa Bus Terminus;DMCC;Dubai Healthcare City Metro station A1;Mashreq Metro Station Landside 1;Union
+extreme_storm,0.0,12,1,5,0.49315953316466327,53.6,DMCC Metro Station Landside;Dubai Mall MS Land Side D;Mall of the Emirates Metro Station 1;The Gardens;Union
+extreme_storm,0.0,13,2,6,0.36974703620451616,44.3,BurJuman;DMCC;Dubai Mall Metro Bus Stop Landside 2;Mall of the Emirates Bus Station 1;Oud Metha Road 2-1
+extreme_storm,0.0,14,2,6,0.5500835494684614,57.9,Al Jafiliya MS Seaside;DMCC;Dubai Mall MS Land Side A;Mall of the Emirates Bus Station 5;Union
+extreme_storm,0.0,15,0,5,0.2793732962524437,41.2,DMCC Metro Station Landside;Mashreq Metro Bus Stop Landside 2;Noor Bank Bus Terminus;Oud Metha Road 2-1;Union
+extreme_storm,0.0,16,1,6,0.364760140193081,41.1,DMCC;Dubai Mall Metro Bus Stop Landside 1;Mashreq Metro Station Landside 1;Oud Metha Road 2 1;Union
+extreme_storm,0.0,17,1,6,0.48214988972904854,56.3,Al Jafiliya MS Landside;Dubai Mall Metro Bus Stop Landside 2;Jabal Ali;Mall of the Emirates Metro Station 2;Union
+extreme_storm,0.0,18,1,7,0.45502737825194645,50.7,Dubai Healthcare City Metro station A1;Jabal Ali;Mashreq Metro Bus Stop Landside 2;Noor Bank MS Landside;Union
+extreme_storm,0.0,19,1,4,0.4963322315365248,54.4,Al Safa Metro Bus Stop Landside;BurJuman;Mashreq Metro Bus Stop Landside 1;Sobha Realty Metro Bus Stop Landside;The Gardens
+extreme_storm,0.0,20,0,3,0.5237843727844156,58.5,"Al Barsha, Habtoor House 1;Al Safa Metro Bus Stop Landside;DMCC;Union;World Trade Centre"
+extreme_storm,0.0,21,1,6,0.25600807738927983,33.2,"BurJuman;DMCC Metro Station Seaside;Mashreq Metro Station Landside 1;Safa, Lufthansa 1;The Gardens"
+extreme_storm,0.0,22,1,4,0.2634050818314972,39.9,DMCC;Dubai Mall MS Land Side A;Dubai Rehabilitation Centre For Disabled;Mashreq Metro Station Landside 1;Union
+extreme_storm,0.0,23,1,5,0.5581444937678097,62.7,DMCC;Dubai Mall MS Land Side A;Mashreq Metro Station Landside 1;Rashidiya Metro Station Gate 9;Union
+extreme_storm,0.0,24,2,5,0.2329389875265848,33.6,DMCC;Dubai Mall MS Land Side D;Mashreq Metro Station Landside 1;Oud Metha Road 2-1;Union
+extreme_storm,0.0,25,1,6,0.4507476805728095,52.4,DMCC;Dubai Mall Metro Bus Stop Landside 2;Dubai Rehabilitation Centre For Disabled;Mashreq Metro Station Landside 1;Union
+extreme_storm,0.0,26,1,5,0.49130055935014194,56.1,DIP Metro Bus Stop 1;DMCC;Mashreq Metro Station Landside 1;Noor Bank Bus Terminus;Union
+extreme_storm,0.0,27,2,6,0.5521637477141349,59.9,BurJuman;DMCC;Dubai Mall MS Land Side A;Dubai Rehabilitation Centre For Disabled;Mashreq Metro Bus Stop Landside 1
+extreme_storm,0.0,28,1,4,0.6513606500906822,67.8,Al Safa Metro Bus Stop Landside;Burj Khalifa/ Dubai Mall;Dubai Healthcare City Metro station A1;Jabal Ali;Mall of the Emirates Metro Station 1
+extreme_storm,0.0,29,1,6,0.4401683269422513,52.3,DMCC;Danube Metro Bus Stop Landside;Dubai Mall MS Land Side A;Mall of the Emirates Bus Station 1;Union
